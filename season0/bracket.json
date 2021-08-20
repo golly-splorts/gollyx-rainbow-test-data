@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "season": 0,
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "FWPT",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Ness City Big Cats",
+                "team3Abbr": "AA",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "timebombredux",
+                "description": "Game 1, Unwest League Championship Series",
+                "id": "2a5d18c0-545a-4a39-8e18-e143cf7dcba1",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 0,
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Tonganoxie Bootyshakers",
+                "team4Abbr": "SLC",
+                "patternName": "random",
+                "description": "Game 1, West League Championship Series",
+                "id": "944a646b-6388-434b-b19b-eac7898c8bf5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 0,
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "FWPT",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Ness City Big Cats",
+                "team3Abbr": "AA",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "justyna",
+                "description": "Game 2, Unwest League Championship Series",
+                "id": "91e2e38f-50a6-44eb-bb34-4e789d7659c1",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 0,
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Tonganoxie Bootyshakers",
+                "team4Abbr": "SLC",
+                "patternName": "justyna",
+                "description": "Game 2, West League Championship Series",
+                "id": "6e684f85-32f4-4300-ab4e-813a36dc748a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 0,
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "FWPT",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Ness City Big Cats",
+                "team3Abbr": "AA",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "random",
+                "description": "Game 3, Unwest League Championship Series",
+                "id": "f04a82e8-bef9-4f77-a5dc-2328a7f8239a",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 0,
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Tonganoxie Bootyshakers",
+                "team4Abbr": "SLC",
+                "patternName": "sunburst",
+                "description": "Game 3, West League Championship Series",
+                "id": "85f696cc-9e45-44e9-86c1-a7ed6dafe547",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 0,
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "FWPT",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Ness City Big Cats",
+                "team3Abbr": "AA",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "patiolights",
+                "description": "Game 4, Unwest League Championship Series",
+                "id": "66cc7fd5-2c10-4561-b26f-9c00d9b737c4",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 0,
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Tonganoxie Bootyshakers",
+                "team4Abbr": "SLC",
+                "patternName": "multum",
+                "description": "Game 4, West League Championship Series",
+                "id": "3d561a89-e354-4729-8c3f-e04917279c60",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 0,
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "FWPT",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Ness City Big Cats",
+                "team3Abbr": "AA",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "multum",
+                "description": "Game 5, Unwest League Championship Series",
+                "id": "b686d8cb-98e6-4c47-878b-6c39ca5a4b90",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 0,
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Tonganoxie Bootyshakers",
+                "team4Abbr": "SLC",
+                "patternName": "eights",
+                "description": "Game 5, West League Championship Series",
+                "id": "4654b560-5bf1-4761-8139-632bc5abe0dc",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 0,
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "FWPT",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Ness City Big Cats",
+                "team3Abbr": "AA",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "quadgaussian",
+                "description": "Game 6, Unwest League Championship Series",
+                "id": "2a3814b2-edaf-4732-a7e9-6aa22fcc7ac8",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 0,
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Tonganoxie Bootyshakers",
+                "team4Abbr": "SLC",
+                "patternName": "patiolights",
+                "description": "Game 6, West League Championship Series",
+                "id": "5d90132f-4d24-4290-a200-92da25fa1d90",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 0,
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "FWPT",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Ness City Big Cats",
+                "team3Abbr": "AA",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "multum",
+                "description": "Game 7, Unwest League Championship Series",
+                "id": "2ced89fd-d795-476c-a8ca-745c8fc8679b",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 0,
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Tonganoxie Bootyshakers",
+                "team4Abbr": "SLC",
+                "patternName": "orchard",
+                "description": "Game 7, West League Championship Series",
+                "id": "7c7b5d76-f5cb-4775-90d3-e83694022542",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 0,
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "FWPT",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Ness City Big Cats",
+                "team3Abbr": "AA",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "timebomb",
+                "description": "Game 8, Unwest League Championship Series",
+                "id": "7bac2bec-22c8-4758-a6d7-640c2f73adf3",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 0,
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Tonganoxie Bootyshakers",
+                "team4Abbr": "SLC",
+                "patternName": "sunburst",
+                "description": "Game 8, West League Championship Series",
+                "id": "5b61aaea-ada9-4979-bd27-9f2b35b87b33",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 0,
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "FWPT",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Ness City Big Cats",
+                "team3Abbr": "AA",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "rainbowmath",
+                "description": "Game 9, Unwest League Championship Series",
+                "id": "a641867b-2889-446d-9ae2-33a0d2b338e5",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 0,
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Tonganoxie Bootyshakers",
+                "team4Abbr": "SLC",
+                "patternName": "patiolights",
+                "description": "Game 9, West League Championship Series",
+                "id": "b9ebfff6-45be-414f-9af3-1530fe348971",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 0,
+                "id": "4bccd484-574f-4564-9d2b-57401d2dd6eb",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 0,
+                "id": "1392ce69-08b8-4b5a-ac0f-74accff117ea",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 0,
+                "id": "4adea1be-11c1-4124-b2a2-b6e5362fa75d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 0,
+                "id": "c29b2364-cd6f-4aee-b6a2-a3f24e8b783a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 0,
+                "id": "4a00f31d-f8b8-4d81-b7b8-b612f7423c5d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 0,
+                "id": "10b5ecee-131b-4802-b557-97828c5faffd",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 0,
+                "id": "71112d3d-4cd9-4a13-af09-6c31e600490c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 0,
+                "id": "0cdfe17a-6854-4d39-b41c-955a36b06a72",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 0,
+                "id": "7019bf37-94bc-43bf-b9c9-d371404f10b0",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
