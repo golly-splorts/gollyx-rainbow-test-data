@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "season": 5,
+                "team1Name": "Sabetha Seasides",
+                "team1Abbr": "MILF",
+                "team2Name": "Ness City Big Cats",
+                "team2Abbr": "AA",
+                "team3Name": "Smith Center Slugs",
+                "team3Abbr": "ORL",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "eights",
+                "description": "Game 1, Unwest League Championship Series",
+                "id": "d8530ac4-8a6a-4969-b8bd-438e7944b7da",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 5,
+                "team1Name": "Liberal Explosions",
+                "team1Abbr": "TB",
+                "team2Name": "Cimmaron Goldeneyes",
+                "team2Abbr": "EA",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Pratt Individualists",
+                "team4Abbr": "SFBS",
+                "patternName": "crabs",
+                "description": "Game 1, West League Championship Series",
+                "id": "ca2c5df7-66a0-4a41-9572-c5cc189611a2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 5,
+                "team1Name": "Sabetha Seasides",
+                "team1Abbr": "MILF",
+                "team2Name": "Ness City Big Cats",
+                "team2Abbr": "AA",
+                "team3Name": "Smith Center Slugs",
+                "team3Abbr": "ORL",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "rainbow",
+                "description": "Game 2, Unwest League Championship Series",
+                "id": "bff09588-31d3-4a89-912d-5ccfd97324a3",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 5,
+                "team1Name": "Liberal Explosions",
+                "team1Abbr": "TB",
+                "team2Name": "Cimmaron Goldeneyes",
+                "team2Abbr": "EA",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Pratt Individualists",
+                "team4Abbr": "SFBS",
+                "patternName": "justyna",
+                "description": "Game 2, West League Championship Series",
+                "id": "6cdee5e8-4c3b-44b8-804f-6aef8b4d01ff",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 5,
+                "team1Name": "Sabetha Seasides",
+                "team1Abbr": "MILF",
+                "team2Name": "Ness City Big Cats",
+                "team2Abbr": "AA",
+                "team3Name": "Smith Center Slugs",
+                "team3Abbr": "ORL",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "timebomb",
+                "description": "Game 3, Unwest League Championship Series",
+                "id": "7b731431-1b7b-44a9-9b8b-1b822d3230de",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 5,
+                "team1Name": "Liberal Explosions",
+                "team1Abbr": "TB",
+                "team2Name": "Cimmaron Goldeneyes",
+                "team2Abbr": "EA",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Pratt Individualists",
+                "team4Abbr": "SFBS",
+                "patternName": "rabbits",
+                "description": "Game 3, West League Championship Series",
+                "id": "9012dd61-85fe-4c49-84a3-1d861294ff24",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 5,
+                "team1Name": "Sabetha Seasides",
+                "team1Abbr": "MILF",
+                "team2Name": "Ness City Big Cats",
+                "team2Abbr": "AA",
+                "team3Name": "Smith Center Slugs",
+                "team3Abbr": "ORL",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "random",
+                "description": "Game 4, Unwest League Championship Series",
+                "id": "1e726198-dbbd-40e3-9308-553ed9a73dbc",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 5,
+                "team1Name": "Liberal Explosions",
+                "team1Abbr": "TB",
+                "team2Name": "Cimmaron Goldeneyes",
+                "team2Abbr": "EA",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Pratt Individualists",
+                "team4Abbr": "SFBS",
+                "patternName": "quadgaussian",
+                "description": "Game 4, West League Championship Series",
+                "id": "ee4a9a63-5e02-4488-b3af-7f34727bfee8",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 5,
+                "team1Name": "Sabetha Seasides",
+                "team1Abbr": "MILF",
+                "team2Name": "Ness City Big Cats",
+                "team2Abbr": "AA",
+                "team3Name": "Smith Center Slugs",
+                "team3Abbr": "ORL",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "timebombredux",
+                "description": "Game 5, Unwest League Championship Series",
+                "id": "566fc6c5-0db1-415b-92a5-e72d83273ee2",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 5,
+                "team1Name": "Liberal Explosions",
+                "team1Abbr": "TB",
+                "team2Name": "Cimmaron Goldeneyes",
+                "team2Abbr": "EA",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Pratt Individualists",
+                "team4Abbr": "SFBS",
+                "patternName": "rainbow",
+                "description": "Game 5, West League Championship Series",
+                "id": "550876ea-d911-477a-982c-9185429ee2ab",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 5,
+                "team1Name": "Sabetha Seasides",
+                "team1Abbr": "MILF",
+                "team2Name": "Ness City Big Cats",
+                "team2Abbr": "AA",
+                "team3Name": "Smith Center Slugs",
+                "team3Abbr": "ORL",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "eights",
+                "description": "Game 6, Unwest League Championship Series",
+                "id": "84513c9a-f308-4c1d-ad45-97b430721866",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 5,
+                "team1Name": "Liberal Explosions",
+                "team1Abbr": "TB",
+                "team2Name": "Cimmaron Goldeneyes",
+                "team2Abbr": "EA",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Pratt Individualists",
+                "team4Abbr": "SFBS",
+                "patternName": "multum",
+                "description": "Game 6, West League Championship Series",
+                "id": "fd9eece8-d401-4d00-b25b-d50661cd880d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 5,
+                "team1Name": "Sabetha Seasides",
+                "team1Abbr": "MILF",
+                "team2Name": "Ness City Big Cats",
+                "team2Abbr": "AA",
+                "team3Name": "Smith Center Slugs",
+                "team3Abbr": "ORL",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "rainbowmath",
+                "description": "Game 7, Unwest League Championship Series",
+                "id": "ad58ab37-bacf-42ac-9440-e34cce6701df",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 5,
+                "team1Name": "Liberal Explosions",
+                "team1Abbr": "TB",
+                "team2Name": "Cimmaron Goldeneyes",
+                "team2Abbr": "EA",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Pratt Individualists",
+                "team4Abbr": "SFBS",
+                "patternName": "randommethuselahs",
+                "description": "Game 7, West League Championship Series",
+                "id": "80bd62f5-940a-4928-b880-1f1851a85164",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 5,
+                "team1Name": "Sabetha Seasides",
+                "team1Abbr": "MILF",
+                "team2Name": "Ness City Big Cats",
+                "team2Abbr": "AA",
+                "team3Name": "Smith Center Slugs",
+                "team3Abbr": "ORL",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "sunburst",
+                "description": "Game 8, Unwest League Championship Series",
+                "id": "3d8ea5b4-13ca-46d5-a5e9-08d7d49630f3",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 5,
+                "team1Name": "Liberal Explosions",
+                "team1Abbr": "TB",
+                "team2Name": "Cimmaron Goldeneyes",
+                "team2Abbr": "EA",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Pratt Individualists",
+                "team4Abbr": "SFBS",
+                "patternName": "rabbits",
+                "description": "Game 8, West League Championship Series",
+                "id": "1c809a58-ca3a-4087-a8c0-e15067425760",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 5,
+                "team1Name": "Sabetha Seasides",
+                "team1Abbr": "MILF",
+                "team2Name": "Ness City Big Cats",
+                "team2Abbr": "AA",
+                "team3Name": "Smith Center Slugs",
+                "team3Abbr": "ORL",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "rabbits",
+                "description": "Game 9, Unwest League Championship Series",
+                "id": "0a09e3d8-706d-4186-bf50-f76c5ad73774",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 5,
+                "team1Name": "Liberal Explosions",
+                "team1Abbr": "TB",
+                "team2Name": "Cimmaron Goldeneyes",
+                "team2Abbr": "EA",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Pratt Individualists",
+                "team4Abbr": "SFBS",
+                "patternName": "random",
+                "description": "Game 9, West League Championship Series",
+                "id": "78161b67-b8bc-454a-bfbd-9613c03cb719",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 5,
+                "id": "ea476211-c7fd-4e3e-ab14-3ca695889a62",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 5,
+                "id": "062000f9-2ab7-4f78-b111-3047ad96da6f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 5,
+                "id": "fa9b6512-d72d-4178-b625-5efd3b28801f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 5,
+                "id": "65589373-2248-44a5-9000-8caf9b5e5a36",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 5,
+                "id": "1e31abd3-81de-473c-8315-f2517912f679",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 5,
+                "id": "4be94c0d-8684-4560-9809-ec3f76f4bfd7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 5,
+                "id": "597e3ce8-f941-4af1-9fde-8d9732b050f1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 5,
+                "id": "b815a213-e0d5-424c-b527-b71d7c903703",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 5,
+                "id": "6baf6c04-0f7e-41c5-b617-c4836a5f33d9",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
