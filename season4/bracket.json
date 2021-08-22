@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "season": 4,
+                "team1Name": "Carbondale Footwork",
+                "team1Abbr": "OSHA",
+                "team2Name": "Chapman Oxidation",
+                "team2Abbr": "MW",
+                "team3Name": "Gardner Palm Trees",
+                "team3Abbr": "FFF",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "crabs",
+                "description": "Game 1, Unwest League Championship Series",
+                "id": "51fea7ea-747e-4a6c-b2ec-a46573a5ce1e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 4,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Salina Anchors",
+                "team2Abbr": "SAC",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Liberal Explosions",
+                "team4Abbr": "TB",
+                "patternName": "quadgaussian",
+                "description": "Game 1, West League Championship Series",
+                "id": "dec9c519-18e1-44fe-a6e8-a4a51d47e86f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 4,
+                "team1Name": "Carbondale Footwork",
+                "team1Abbr": "OSHA",
+                "team2Name": "Chapman Oxidation",
+                "team2Abbr": "MW",
+                "team3Name": "Gardner Palm Trees",
+                "team3Abbr": "FFF",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "patiolights",
+                "description": "Game 2, Unwest League Championship Series",
+                "id": "209449db-d604-4dd8-9fe4-77a6ff0436fc",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 4,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Salina Anchors",
+                "team2Abbr": "SAC",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Liberal Explosions",
+                "team4Abbr": "TB",
+                "patternName": "eights",
+                "description": "Game 2, West League Championship Series",
+                "id": "93f61dce-c664-4c86-b5fb-914050a866e9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 4,
+                "team1Name": "Carbondale Footwork",
+                "team1Abbr": "OSHA",
+                "team2Name": "Chapman Oxidation",
+                "team2Abbr": "MW",
+                "team3Name": "Gardner Palm Trees",
+                "team3Abbr": "FFF",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "rainbow",
+                "description": "Game 3, Unwest League Championship Series",
+                "id": "dc226af7-4da7-4292-a97a-1b65c4053bf5",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 4,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Salina Anchors",
+                "team2Abbr": "SAC",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Liberal Explosions",
+                "team4Abbr": "TB",
+                "patternName": "timebombredux",
+                "description": "Game 3, West League Championship Series",
+                "id": "ada50971-3cab-4c3f-9078-d6b3ef63c80d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 4,
+                "team1Name": "Carbondale Footwork",
+                "team1Abbr": "OSHA",
+                "team2Name": "Chapman Oxidation",
+                "team2Abbr": "MW",
+                "team3Name": "Gardner Palm Trees",
+                "team3Abbr": "FFF",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "randommethuselahs",
+                "description": "Game 4, Unwest League Championship Series",
+                "id": "a50c2e0a-0552-4860-9c43-be2ce1e15c8b",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 4,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Salina Anchors",
+                "team2Abbr": "SAC",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Liberal Explosions",
+                "team4Abbr": "TB",
+                "patternName": "eights",
+                "description": "Game 4, West League Championship Series",
+                "id": "66b8a220-b8e4-4da8-9fd4-aa190c80997a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 4,
+                "team1Name": "Carbondale Footwork",
+                "team1Abbr": "OSHA",
+                "team2Name": "Chapman Oxidation",
+                "team2Abbr": "MW",
+                "team3Name": "Gardner Palm Trees",
+                "team3Abbr": "FFF",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "rainbow",
+                "description": "Game 5, Unwest League Championship Series",
+                "id": "3bc41d50-c6ee-4a30-9e60-9cae8a11d46d",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 4,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Salina Anchors",
+                "team2Abbr": "SAC",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Liberal Explosions",
+                "team4Abbr": "TB",
+                "patternName": "rainbowmath",
+                "description": "Game 5, West League Championship Series",
+                "id": "bedc61bc-dfe0-4a58-9f2f-d26a974ec172",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 4,
+                "team1Name": "Carbondale Footwork",
+                "team1Abbr": "OSHA",
+                "team2Name": "Chapman Oxidation",
+                "team2Abbr": "MW",
+                "team3Name": "Gardner Palm Trees",
+                "team3Abbr": "FFF",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "orchard",
+                "description": "Game 6, Unwest League Championship Series",
+                "id": "d12ed7f0-848b-4a1c-8d58-df024f11a2a7",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 4,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Salina Anchors",
+                "team2Abbr": "SAC",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Liberal Explosions",
+                "team4Abbr": "TB",
+                "patternName": "timebomb",
+                "description": "Game 6, West League Championship Series",
+                "id": "ff9ff6cf-09bd-48e7-b95f-5ff6ef4cbca3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 4,
+                "team1Name": "Carbondale Footwork",
+                "team1Abbr": "OSHA",
+                "team2Name": "Chapman Oxidation",
+                "team2Abbr": "MW",
+                "team3Name": "Gardner Palm Trees",
+                "team3Abbr": "FFF",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "eights",
+                "description": "Game 7, Unwest League Championship Series",
+                "id": "0a1fd2f5-f062-4a4b-b392-6231bb3dbfa5",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 4,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Salina Anchors",
+                "team2Abbr": "SAC",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Liberal Explosions",
+                "team4Abbr": "TB",
+                "patternName": "randommethuselahs",
+                "description": "Game 7, West League Championship Series",
+                "id": "ba1bbd2c-29a6-4f42-9f89-5b7e67916a74",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 4,
+                "team1Name": "Carbondale Footwork",
+                "team1Abbr": "OSHA",
+                "team2Name": "Chapman Oxidation",
+                "team2Abbr": "MW",
+                "team3Name": "Gardner Palm Trees",
+                "team3Abbr": "FFF",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "multum",
+                "description": "Game 8, Unwest League Championship Series",
+                "id": "227462b8-516f-4a20-af9a-ec58740b0452",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 4,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Salina Anchors",
+                "team2Abbr": "SAC",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Liberal Explosions",
+                "team4Abbr": "TB",
+                "patternName": "multum",
+                "description": "Game 8, West League Championship Series",
+                "id": "0c5d9aa6-40a3-4a5c-845e-9401de9dd662",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 4,
+                "team1Name": "Carbondale Footwork",
+                "team1Abbr": "OSHA",
+                "team2Name": "Chapman Oxidation",
+                "team2Abbr": "MW",
+                "team3Name": "Gardner Palm Trees",
+                "team3Abbr": "FFF",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "timebombredux",
+                "description": "Game 9, Unwest League Championship Series",
+                "id": "dc76ec24-feb7-42c2-905c-81de30532866",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 4,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Salina Anchors",
+                "team2Abbr": "SAC",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Liberal Explosions",
+                "team4Abbr": "TB",
+                "patternName": "quadgaussian",
+                "description": "Game 9, West League Championship Series",
+                "id": "f99e23cb-7d40-4526-a187-0bfdcd1529e7",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 4,
+                "id": "71575a18-52ae-4df1-89a7-6d2c62498979",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 4,
+                "id": "6ae314d3-fd53-485a-950d-cfaf115b22f5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 4,
+                "id": "a3514e8f-65fb-42f1-b1c4-40286965a4fd",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 4,
+                "id": "269da5f2-4db6-4234-b666-61d3c8efd388",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 4,
+                "id": "dce645b4-9116-4a19-a0c9-072afef5b76b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 4,
+                "id": "82ecf46b-25fc-4e20-9ca2-b517d0ab4331",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 4,
+                "id": "67e1080a-5dc4-41b6-8d4b-81219f0eeb6f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 4,
+                "id": "3c7ffce4-124e-43c6-a256-c0f6aad17dd2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 4,
+                "id": "65f490a6-ec6f-4753-acea-5e589c2cfd59",
+                "isPostseason": true
+            }
+        ]
+    ]
+}

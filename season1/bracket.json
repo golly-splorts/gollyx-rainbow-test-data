@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "season": 1,
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "randommethuselahs",
+                "description": "Game 1, Unwest League Championship Series",
+                "id": "f24a2109-f51e-466f-b61f-30af27728cfe",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 1,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Lyons Waste Dumps",
+                "team2Abbr": "FF",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "random",
+                "description": "Game 1, West League Championship Series",
+                "id": "9b2c0264-a1b3-4cbb-82d2-269ecbada6f0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 1,
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "sunburst",
+                "description": "Game 2, Unwest League Championship Series",
+                "id": "3f4948d2-1e6b-4ec5-897f-b42c34f7ea7e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 1,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Lyons Waste Dumps",
+                "team2Abbr": "FF",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "randommethuselahs",
+                "description": "Game 2, West League Championship Series",
+                "id": "b03e9e66-280e-45a6-a12f-286ea45c32e3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 1,
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "crabs",
+                "description": "Game 3, Unwest League Championship Series",
+                "id": "0030101f-74ca-42fe-8953-6a4958566a8e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 1,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Lyons Waste Dumps",
+                "team2Abbr": "FF",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "eights",
+                "description": "Game 3, West League Championship Series",
+                "id": "821e4940-58fc-4fe8-9ecf-6512a91b68f5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 1,
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "eights",
+                "description": "Game 4, Unwest League Championship Series",
+                "id": "81609712-cf24-497c-8cad-e19e61aad4fc",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 1,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Lyons Waste Dumps",
+                "team2Abbr": "FF",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "timebomb",
+                "description": "Game 4, West League Championship Series",
+                "id": "66673c99-1983-4028-a28d-f95790cb87a1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 1,
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "timebombredux",
+                "description": "Game 5, Unwest League Championship Series",
+                "id": "0c98c197-f65d-4d11-b5fd-3d81eaf237ca",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 1,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Lyons Waste Dumps",
+                "team2Abbr": "FF",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "rainbowmath",
+                "description": "Game 5, West League Championship Series",
+                "id": "ef550692-880e-42bf-a57c-fbb9116a285e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 1,
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "crabs",
+                "description": "Game 6, Unwest League Championship Series",
+                "id": "bcb63eab-7d0b-4b17-8f54-38041e54402a",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 1,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Lyons Waste Dumps",
+                "team2Abbr": "FF",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "eights",
+                "description": "Game 6, West League Championship Series",
+                "id": "8b72787f-daaf-495f-993a-156c72405c3f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 1,
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "rainbow",
+                "description": "Game 7, Unwest League Championship Series",
+                "id": "9da7eec5-4d37-4eea-8913-2b99b8598a74",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 1,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Lyons Waste Dumps",
+                "team2Abbr": "FF",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "timebomb",
+                "description": "Game 7, West League Championship Series",
+                "id": "a09c27f6-e6b1-46e2-a7af-f6163dd7783d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 1,
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "rainbow",
+                "description": "Game 8, Unwest League Championship Series",
+                "id": "731744a2-8053-402b-8b59-3bad7ca85c28",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 1,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Lyons Waste Dumps",
+                "team2Abbr": "FF",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "rabbits",
+                "description": "Game 8, West League Championship Series",
+                "id": "819d56b6-51af-4828-9bef-a4751b80c5e7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "season": 1,
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "FWPT",
+                "patternName": "sunburst",
+                "description": "Game 9, Unwest League Championship Series",
+                "id": "b340a8b3-847a-455c-bbdf-596fe7b63317",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "season": 1,
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Lyons Waste Dumps",
+                "team2Abbr": "FF",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "timebomb",
+                "description": "Game 9, West League Championship Series",
+                "id": "62685750-9090-4df8-bedb-14c43ea48585",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 1,
+                "id": "46d35b8b-d284-458e-ba16-b12e9e4880ed",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 1,
+                "id": "b83bdaf0-bc65-429c-824a-3de85c03e2bf",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 1,
+                "id": "4daa40a1-b4a5-42cf-bc6b-154af3d2cf8e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 1,
+                "id": "6115616a-22dc-4bcc-b04d-2d3bb3a59456",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 1,
+                "id": "facd4235-948c-4334-b3d2-460cc61d0b8c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 1,
+                "id": "5a3d7dd9-5f17-4e8b-9c96-895050294c40",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 1,
+                "id": "6536f9e9-f819-4586-9344-c1d9e7dadda0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 1,
+                "id": "a23a07dd-c292-4d18-8856-515c9e97ab26",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 1,
+                "id": "f4e57a9d-78a3-4180-a02e-e8731b923602",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
