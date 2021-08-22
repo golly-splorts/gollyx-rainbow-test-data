@@ -1,0 +1,3 @@
+#!/bin/bash
+
+export GOLLYX_PSEUDO_DATA_HOME="$HOME/golly/gollyx-pseudo-data"
