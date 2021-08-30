@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "FWPT",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Gardner Palm Trees",
+                "team4Abbr": "FFF",
+                "patternName": "multum",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 0,
+                "id": "3d6bf078-ef6f-4303-a0c5-acbb59ce1cd6",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Osawatomie Surgeons",
+                "team4Abbr": "SDBA",
+                "patternName": "randommethuselahs",
+                "description": "Game 1, West League Championship Series",
+                "season": 0,
+                "id": "8beb8957-b729-4415-8d4b-7117282bd2a9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "FWPT",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Gardner Palm Trees",
+                "team4Abbr": "FFF",
+                "patternName": "crabs",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 0,
+                "id": "3f4ee1ba-8939-456e-b783-6169f95c4b6c",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Osawatomie Surgeons",
+                "team4Abbr": "SDBA",
+                "patternName": "sunburst",
+                "description": "Game 2, West League Championship Series",
+                "season": 0,
+                "id": "8278e77e-8e82-4b2b-b616-337c0f27c642",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "FWPT",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Gardner Palm Trees",
+                "team4Abbr": "FFF",
+                "patternName": "sunburst",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 0,
+                "id": "069cbdd5-0dec-4212-b99f-f31bd4211c70",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Osawatomie Surgeons",
+                "team4Abbr": "SDBA",
+                "patternName": "eights",
+                "description": "Game 3, West League Championship Series",
+                "season": 0,
+                "id": "c36abebd-8e8e-4d1c-a14f-e90fbf8da010",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "FWPT",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Gardner Palm Trees",
+                "team4Abbr": "FFF",
+                "patternName": "multum",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 0,
+                "id": "f568df08-6a84-4f2f-8654-a6b134e24c2b",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Osawatomie Surgeons",
+                "team4Abbr": "SDBA",
+                "patternName": "rabbits",
+                "description": "Game 4, West League Championship Series",
+                "season": 0,
+                "id": "85cf58b0-d659-419e-934f-afb9c149850e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "FWPT",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Gardner Palm Trees",
+                "team4Abbr": "FFF",
+                "patternName": "eights",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 0,
+                "id": "ee67e211-248a-47a0-a0a8-eed421d426a4",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Osawatomie Surgeons",
+                "team4Abbr": "SDBA",
+                "patternName": "rainbowmath",
+                "description": "Game 5, West League Championship Series",
+                "season": 0,
+                "id": "c57c8670-691a-467b-a809-2cfd9570673b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "FWPT",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Gardner Palm Trees",
+                "team4Abbr": "FFF",
+                "patternName": "rainbowmath",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 0,
+                "id": "469f4065-f4c5-4d84-8a9f-594dfad013af",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Osawatomie Surgeons",
+                "team4Abbr": "SDBA",
+                "patternName": "sunburst",
+                "description": "Game 6, West League Championship Series",
+                "season": 0,
+                "id": "77260f78-34be-4411-9a20-bdbe64dd4b99",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "FWPT",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Gardner Palm Trees",
+                "team4Abbr": "FFF",
+                "patternName": "rainbow",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 0,
+                "id": "446179f3-dc9e-4097-bcb3-5395b64434ca",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Osawatomie Surgeons",
+                "team4Abbr": "SDBA",
+                "patternName": "timebomb",
+                "description": "Game 7, West League Championship Series",
+                "season": 0,
+                "id": "9e3758dd-940d-41a8-b0a2-bfe667822009",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "FWPT",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Gardner Palm Trees",
+                "team4Abbr": "FFF",
+                "patternName": "randommethuselahs",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 0,
+                "id": "f8ba9b71-a725-4c48-b5cc-93575ce28451",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Osawatomie Surgeons",
+                "team4Abbr": "SDBA",
+                "patternName": "rainbowmath",
+                "description": "Game 8, West League Championship Series",
+                "season": 0,
+                "id": "3aa0de74-041e-400e-9b7a-8506ab0d5b64",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "FWPT",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Gardner Palm Trees",
+                "team4Abbr": "FFF",
+                "patternName": "rainbowmath",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 0,
+                "id": "3f02d57b-9b4f-4267-8d5d-50403c726abb",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Osawatomie Surgeons",
+                "team4Abbr": "SDBA",
+                "patternName": "random",
+                "description": "Game 9, West League Championship Series",
+                "season": 0,
+                "id": "954c4cc9-ad46-4206-a1e6-baa5d364c57a",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 0,
+                "id": "23d7fb90-863e-4186-ad83-1239d36e9f9d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 0,
+                "id": "b9b4443f-d8ce-4b70-a773-599ff8416679",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 0,
+                "id": "4a2d0156-329a-4d6c-9796-5613c09268b2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 0,
+                "id": "48d01c9a-7dbd-4bef-a55f-85937e5a8c44",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 0,
+                "id": "e2838d20-6b1f-4cba-9f0c-b9f9e3f4d18d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 0,
+                "id": "3a7d8dc3-c034-46fa-8542-c3561ec287c9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 0,
+                "id": "500a9ca3-e402-4e45-9ed5-73405df68d96",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 0,
+                "id": "51056ac5-0e8b-4fb1-ac3c-1ff257205f1a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 0,
+                "id": "ee361f86-9d40-4982-8e7e-44721be8dc2e",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
