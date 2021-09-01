@@ -140,7 +140,7 @@ for iseason in range(LAST_SEASON0 + 1):
         #    if urk in mapp:
         #        raise Exception("Error in game {game['id']} of season {game['season']} day {game['day']}: game map should not have key \"{urk}\"!")
 
-    def check_wl(game):
+    def check_w23l(game):
         req_keys = []
         for i in range(4):
             key = f"team{i+1}W23L"
@@ -155,6 +155,23 @@ for iseason in range(LAST_SEASON0 + 1):
                 print(game)
                 raise Exception(
                     f"Error in game {game['id']} of season {game['season']} day {game['day']}: win loss record for team {i+1} sums to {summ}, should sum to {game['day']}"
+                )
+
+    def check_sw23l(game, iseriesday):
+        req_keys = []
+        for i in range(4):
+            key = f"team{i+1}SeriesW23L"
+            req_keys.append(key)
+        for rk in req_keys:
+            if rk not in game:
+                raise Exception(
+                    f"Error in game {game['id']} of season {game['season']} day {game['day']}: game map is missing key \"{rk}\"!"
+                )
+            summ = sum(game[rk])
+            if summ != iseriesday:
+                print(game)
+                raise Exception(
+                    f"Error in game {game['id']} of season {game['season']} day {game['day']}: win loss record for team {i+1} sums to {summ}, should sum to {iseriesday}"
                 )
 
     def check_game_season(game, correct_season):
@@ -271,7 +288,7 @@ for iseason in range(LAST_SEASON0 + 1):
             check_league(game)
             check_id(game)
             check_map(game)
-            check_wl(game)
+            check_w23l(game)
             check_game_season(game, iseason)
 
             for i in range(4):
@@ -434,7 +451,7 @@ for iseason in range(LAST_SEASON0 + 1):
     postseason_game_ids = set()
     for series in postseason:
         miniseason = postseason[series]
-        for iday, day in enumerate(miniseason):
+        for iseriesday, day in enumerate(miniseason):
             games = day
             for igame, game in enumerate(games):
                 check_id(game)
@@ -443,6 +460,7 @@ for iseason in range(LAST_SEASON0 + 1):
                 if series != "RCS":
                     check_league(game)
                 check_map(game)
+                check_sw23l(game, iseriesday)
                 check_game_season(game, iseason)
 
                 for i in range(4):
