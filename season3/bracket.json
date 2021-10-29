@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Chapman Oxidation",
+                "team1Abbr": "MW",
+                "team2Name": "Galena Sammies",
+                "team2Abbr": "BB",
+                "team3Name": "Sabetha Seasides",
+                "team3Abbr": "MILF",
+                "team4Name": "Gardner Palm Trees",
+                "team4Abbr": "FFF",
+                "patternName": "orchard",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "fa82ee16-743c-4192-b4b5-3dc0a2317143",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Osawatomie Surgeons",
+                "team1Abbr": "SDBA",
+                "team2Name": "Liberal Explosions",
+                "team2Abbr": "TB",
+                "team3Name": "Cimmaron Goldeneyes",
+                "team3Abbr": "EA",
+                "team4Name": "Salina Anchors",
+                "team4Abbr": "SAC",
+                "patternName": "orchard",
+                "description": "Game 1, West League Championship Series",
+                "season": 3,
+                "gameid": "f1a669f4-468c-45f0-9512-8764b4fe997f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Gardner Palm Trees",
+                "team1Abbr": "FFF",
+                "team2Name": "Galena Sammies",
+                "team2Abbr": "BB",
+                "team3Name": "Chapman Oxidation",
+                "team3Abbr": "MW",
+                "team4Name": "Sabetha Seasides",
+                "team4Abbr": "MILF",
+                "patternName": "orchard",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "9d452413-aa3a-43b5-b192-9bdefbd5fe11",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Salina Anchors",
+                "team2Abbr": "SAC",
+                "team3Name": "Osawatomie Surgeons",
+                "team3Abbr": "SDBA",
+                "team4Name": "Liberal Explosions",
+                "team4Abbr": "TB",
+                "patternName": "orchard",
+                "description": "Game 2, West League Championship Series",
+                "season": 3,
+                "gameid": "5cb57aaf-8bbc-4ab5-863e-1b13c436a4fc",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Gardner Palm Trees",
+                "team1Abbr": "FFF",
+                "team2Name": "Galena Sammies",
+                "team2Abbr": "BB",
+                "team3Name": "Sabetha Seasides",
+                "team3Abbr": "MILF",
+                "team4Name": "Chapman Oxidation",
+                "team4Abbr": "MW",
+                "patternName": "orchard",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "79061559-6242-4a38-9c04-a38c34b118b4",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Salina Anchors",
+                "team1Abbr": "SAC",
+                "team2Name": "Liberal Explosions",
+                "team2Abbr": "TB",
+                "team3Name": "Osawatomie Surgeons",
+                "team3Abbr": "SDBA",
+                "team4Name": "Cimmaron Goldeneyes",
+                "team4Abbr": "EA",
+                "patternName": "orchard",
+                "description": "Game 3, West League Championship Series",
+                "season": 3,
+                "gameid": "27e295ad-36d2-4c0f-92fe-b424d24ed77e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Chapman Oxidation",
+                "team1Abbr": "MW",
+                "team2Name": "Galena Sammies",
+                "team2Abbr": "BB",
+                "team3Name": "Gardner Palm Trees",
+                "team3Abbr": "FFF",
+                "team4Name": "Sabetha Seasides",
+                "team4Abbr": "MILF",
+                "patternName": "orchard",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "d0065336-4189-4575-9c98-a858ef4cf1a8",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Salina Anchors",
+                "team2Abbr": "SAC",
+                "team3Name": "Liberal Explosions",
+                "team3Abbr": "TB",
+                "team4Name": "Osawatomie Surgeons",
+                "team4Abbr": "SDBA",
+                "patternName": "orchard",
+                "description": "Game 4, West League Championship Series",
+                "season": 3,
+                "gameid": "c06b02b9-d984-45c5-aee7-e508ab6813aa",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sabetha Seasides",
+                "team1Abbr": "MILF",
+                "team2Name": "Gardner Palm Trees",
+                "team2Abbr": "FFF",
+                "team3Name": "Galena Sammies",
+                "team3Abbr": "BB",
+                "team4Name": "Chapman Oxidation",
+                "team4Abbr": "MW",
+                "patternName": "orchard",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "d0bd7068-3abd-4a7a-a6cd-d0c1df6ccfee",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Osawatomie Surgeons",
+                "team1Abbr": "SDBA",
+                "team2Name": "Liberal Explosions",
+                "team2Abbr": "TB",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Cimmaron Goldeneyes",
+                "team4Abbr": "EA",
+                "patternName": "orchard",
+                "description": "Game 5, West League Championship Series",
+                "season": 3,
+                "gameid": "2a8353a5-8fe3-47bc-bd9d-269cef6c23bf",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Gardner Palm Trees",
+                "team1Abbr": "FFF",
+                "team2Name": "Chapman Oxidation",
+                "team2Abbr": "MW",
+                "team3Name": "Galena Sammies",
+                "team3Abbr": "BB",
+                "team4Name": "Sabetha Seasides",
+                "team4Abbr": "MILF",
+                "patternName": "orchard",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "c69dc905-86ae-43a1-a275-074bc18e9dd5",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Salina Anchors",
+                "team2Abbr": "SAC",
+                "team3Name": "Liberal Explosions",
+                "team3Abbr": "TB",
+                "team4Name": "Osawatomie Surgeons",
+                "team4Abbr": "SDBA",
+                "patternName": "orchard",
+                "description": "Game 6, West League Championship Series",
+                "season": 3,
+                "gameid": "75d93d6a-4529-40eb-8c5e-85af27bdd85b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Gardner Palm Trees",
+                "team1Abbr": "FFF",
+                "team2Name": "Chapman Oxidation",
+                "team2Abbr": "MW",
+                "team3Name": "Sabetha Seasides",
+                "team3Abbr": "MILF",
+                "team4Name": "Galena Sammies",
+                "team4Abbr": "BB",
+                "patternName": "orchard",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "5ef6f65f-278c-4f09-b722-204bbbb7fded",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Salina Anchors",
+                "team2Abbr": "SAC",
+                "team3Name": "Liberal Explosions",
+                "team3Abbr": "TB",
+                "team4Name": "Osawatomie Surgeons",
+                "team4Abbr": "SDBA",
+                "patternName": "orchard",
+                "description": "Game 7, West League Championship Series",
+                "season": 3,
+                "gameid": "087aff56-e597-494a-a16d-e4f109aa6b93",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Chapman Oxidation",
+                "team1Abbr": "MW",
+                "team2Name": "Gardner Palm Trees",
+                "team2Abbr": "FFF",
+                "team3Name": "Sabetha Seasides",
+                "team3Abbr": "MILF",
+                "team4Name": "Galena Sammies",
+                "team4Abbr": "BB",
+                "patternName": "orchard",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "9d88bd49-d3c2-4b95-9f84-f2092204c9dd",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Osawatomie Surgeons",
+                "team1Abbr": "SDBA",
+                "team2Name": "Salina Anchors",
+                "team2Abbr": "SAC",
+                "team3Name": "Cimmaron Goldeneyes",
+                "team3Abbr": "EA",
+                "team4Name": "Liberal Explosions",
+                "team4Abbr": "TB",
+                "patternName": "orchard",
+                "description": "Game 8, West League Championship Series",
+                "season": 3,
+                "gameid": "4ce37f89-8a82-43a0-aa05-f7ea79ca6d0f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Galena Sammies",
+                "team1Abbr": "BB",
+                "team2Name": "Sabetha Seasides",
+                "team2Abbr": "MILF",
+                "team3Name": "Chapman Oxidation",
+                "team3Abbr": "MW",
+                "team4Name": "Gardner Palm Trees",
+                "team4Abbr": "FFF",
+                "patternName": "orchard",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 3,
+                "gameid": "e54adcf5-fe27-470e-9ef1-fef7c879c155",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Osawatomie Surgeons",
+                "team2Abbr": "SDBA",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Liberal Explosions",
+                "team4Abbr": "TB",
+                "patternName": "orchard",
+                "description": "Game 9, West League Championship Series",
+                "season": 3,
+                "gameid": "e8eb6cbb-fa4b-4e62-8dd0-32efdd436e28",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "285bfd10-9b17-417f-9983-5f57addcb265",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "eb0f831c-9361-4817-a96e-b8287a8e385b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "e7e19a6a-e2bd-4f13-a918-af871b15c61c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "e55d4665-8b65-4e9a-9aeb-941046584d6c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "3c9fb122-1679-4c33-bc25-49d17f561545",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "3049c2e1-16cc-478e-9018-f707a00da080",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "0d09d10c-9111-4dfd-ba5d-00d4224d0596",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "98c4122c-edf5-41b6-8cb4-1411fc21843d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 3,
+                "gameid": "3938a48c-bf2c-4b09-bd28-45a1892bf921",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
