@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Ness City Big Cats",
+                "team1Abbr": "AA",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Carbondale Footwork",
+                "team4Abbr": "OSHA",
+                "patternName": "randommethuselahs",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "a976469d-123b-4de5-b49a-bd2db90e2c15",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Liberal Explosions",
+                "team1Abbr": "TB",
+                "team2Name": "Silver Lake Losers",
+                "team2Abbr": "VV",
+                "team3Name": "Larned Spellguds",
+                "team3Abbr": "SS",
+                "team4Name": "Osborne Tangerines",
+                "team4Abbr": "GJC",
+                "patternName": "rainbow",
+                "description": "Game 1, West League Championship Series",
+                "season": 6,
+                "gameid": "2fbd94d8-4a15-4b07-ae13-8648e5863578",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Ness City Big Cats",
+                "team1Abbr": "AA",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Carbondale Footwork",
+                "team3Abbr": "OSHA",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "timebombredux",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "6cfc8c4e-ed68-4110-8227-dd6d965c593e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Osborne Tangerines",
+                "team1Abbr": "GJC",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Silver Lake Losers",
+                "team3Abbr": "VV",
+                "team4Name": "Liberal Explosions",
+                "team4Abbr": "TB",
+                "patternName": "crabs",
+                "description": "Game 2, West League Championship Series",
+                "season": 6,
+                "gameid": "30f1b875-ba91-419e-a797-2324fc6a206d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Kechi Beachtowels",
+                "team1Abbr": "DET",
+                "team2Name": "Sedgwick Malevolents",
+                "team2Abbr": "SGE",
+                "team3Name": "Ness City Big Cats",
+                "team3Abbr": "AA",
+                "team4Name": "Carbondale Footwork",
+                "team4Abbr": "OSHA",
+                "patternName": "timebomb",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "ae2f77fe-309f-49e9-9594-34bc718ab82b",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Osborne Tangerines",
+                "team1Abbr": "GJC",
+                "team2Name": "Liberal Explosions",
+                "team2Abbr": "TB",
+                "team3Name": "Silver Lake Losers",
+                "team3Abbr": "VV",
+                "team4Name": "Larned Spellguds",
+                "team4Abbr": "SS",
+                "patternName": "justyna",
+                "description": "Game 3, West League Championship Series",
+                "season": 6,
+                "gameid": "867155c3-7a29-4a3f-a229-c259d9803e6e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Ness City Big Cats",
+                "team1Abbr": "AA",
+                "team2Name": "Sedgwick Malevolents",
+                "team2Abbr": "SGE",
+                "team3Name": "Carbondale Footwork",
+                "team3Abbr": "OSHA",
+                "team4Name": "Kechi Beachtowels",
+                "team4Abbr": "DET",
+                "patternName": "crabs",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "4269ce64-5479-4d51-b5ec-bc7bd0e5dcbe",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Liberal Explosions",
+                "team3Abbr": "TB",
+                "team4Name": "Osborne Tangerines",
+                "team4Abbr": "GJC",
+                "patternName": "timebombredux",
+                "description": "Game 4, West League Championship Series",
+                "season": 6,
+                "gameid": "fd55e169-7e17-442d-a9c3-8d95c09ef45b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Carbondale Footwork",
+                "team1Abbr": "OSHA",
+                "team2Name": "Sedgwick Malevolents",
+                "team2Abbr": "SGE",
+                "team3Name": "Kechi Beachtowels",
+                "team3Abbr": "DET",
+                "team4Name": "Ness City Big Cats",
+                "team4Abbr": "AA",
+                "patternName": "rainbow",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "5758e56c-b530-4177-a170-53ae42e96bae",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Liberal Explosions",
+                "team3Abbr": "TB",
+                "team4Name": "Osborne Tangerines",
+                "team4Abbr": "GJC",
+                "patternName": "rainbow",
+                "description": "Game 5, West League Championship Series",
+                "season": 6,
+                "gameid": "ee6e80df-1118-4cd7-8f2a-d3d7d8f84622",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Carbondale Footwork",
+                "team1Abbr": "OSHA",
+                "team2Name": "Ness City Big Cats",
+                "team2Abbr": "AA",
+                "team3Name": "Kechi Beachtowels",
+                "team3Abbr": "DET",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "quadgaussian",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "fa0d2e54-f36a-4457-aaad-9904b0a02d07",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Liberal Explosions",
+                "team1Abbr": "TB",
+                "team2Name": "Osborne Tangerines",
+                "team2Abbr": "GJC",
+                "team3Name": "Larned Spellguds",
+                "team3Abbr": "SS",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "justyna",
+                "description": "Game 6, West League Championship Series",
+                "season": 6,
+                "gameid": "22b4951c-c44d-48f4-ae77-6d56ef4a4172",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Kechi Beachtowels",
+                "team1Abbr": "DET",
+                "team2Name": "Ness City Big Cats",
+                "team2Abbr": "AA",
+                "team3Name": "Carbondale Footwork",
+                "team3Abbr": "OSHA",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "timebombredux",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "940295ff-771e-4e03-a760-680d7305b6ac",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Osborne Tangerines",
+                "team1Abbr": "GJC",
+                "team2Name": "Silver Lake Losers",
+                "team2Abbr": "VV",
+                "team3Name": "Liberal Explosions",
+                "team3Abbr": "TB",
+                "team4Name": "Larned Spellguds",
+                "team4Abbr": "SS",
+                "patternName": "crabs",
+                "description": "Game 7, West League Championship Series",
+                "season": 6,
+                "gameid": "411bcb5a-d31d-4fdb-94ca-6daf652f81d6",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Carbondale Footwork",
+                "team1Abbr": "OSHA",
+                "team2Name": "Sedgwick Malevolents",
+                "team2Abbr": "SGE",
+                "team3Name": "Kechi Beachtowels",
+                "team3Abbr": "DET",
+                "team4Name": "Ness City Big Cats",
+                "team4Abbr": "AA",
+                "patternName": "rainbowmath",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "ada362fe-3e20-4f61-9422-cf9deacf5c9e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Osborne Tangerines",
+                "team1Abbr": "GJC",
+                "team2Name": "Liberal Explosions",
+                "team2Abbr": "TB",
+                "team3Name": "Larned Spellguds",
+                "team3Abbr": "SS",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "timebomb",
+                "description": "Game 8, West League Championship Series",
+                "season": 6,
+                "gameid": "e50c00f4-6c18-45bc-a319-aef16c48e15b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Kechi Beachtowels",
+                "team1Abbr": "DET",
+                "team2Name": "Ness City Big Cats",
+                "team2Abbr": "AA",
+                "team3Name": "Carbondale Footwork",
+                "team3Abbr": "OSHA",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "rainbowmath",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "436606fb-177d-4849-afc4-414d4a7754a0",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Liberal Explosions",
+                "team1Abbr": "TB",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "patiolights",
+                "description": "Game 9, West League Championship Series",
+                "season": 6,
+                "gameid": "d8364cd9-de82-4d84-8337-f4fd14cc2912",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "6ea2ccb0-8a3b-429a-8b8b-ddb19b9cf9d1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "029e4758-8e79-4119-a769-00402961299b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "8a325554-28d7-4033-ab99-7b1e0d223aa5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "fc8213f7-b939-4b99-bf99-6760c65d90e6",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "12f08a7e-e835-4152-8826-6d51acda9798",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "142618cd-3bd4-4477-8e7a-5372767bf15e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "27080ce5-326b-46d4-abdd-0f22e42617be",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "8a399009-8a51-436a-a70f-e84edc89f95e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "9a24a364-2534-41c0-974a-67dc7072a46c",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
