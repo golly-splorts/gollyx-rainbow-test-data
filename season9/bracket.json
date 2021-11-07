@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sedgwick Malevolents",
+                "team1Abbr": "SGE",
+                "team2Name": "Gardner Palm Trees",
+                "team2Abbr": "FFF",
+                "team3Name": "Elwood Skulls",
+                "team3Abbr": "LIL",
+                "team4Name": "Carbondale Footwork",
+                "team4Abbr": "OSHA",
+                "patternName": "orchard",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "14dcd84f-637e-4b22-9aa9-3be80ac41960",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Liberal Explosions",
+                "team2Abbr": "TB",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Marion Loosey Gooseys",
+                "team4Abbr": "LBFB",
+                "patternName": "multum",
+                "description": "Game 1, West League Championship Series",
+                "season": 9,
+                "gameid": "4a0cc854-22b0-4795-b2fc-9eef17eb328a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "LIL",
+                "team2Name": "Carbondale Footwork",
+                "team2Abbr": "OSHA",
+                "team3Name": "Gardner Palm Trees",
+                "team3Abbr": "FFF",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "quadgaussian",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "f2fa09e2-99ff-43b4-921c-f84d999bef49",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Liberal Explosions",
+                "team2Abbr": "TB",
+                "team3Name": "Silver Lake Losers",
+                "team3Abbr": "VV",
+                "team4Name": "Osborne Tangerines",
+                "team4Abbr": "GJC",
+                "patternName": "multum",
+                "description": "Game 2, West League Championship Series",
+                "season": 9,
+                "gameid": "609b1fc2-8198-4c13-8d5a-c47c1c4bb4b3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Gardner Palm Trees",
+                "team1Abbr": "FFF",
+                "team2Name": "Carbondale Footwork",
+                "team2Abbr": "OSHA",
+                "team3Name": "Elwood Skulls",
+                "team3Abbr": "LIL",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "randommethuselahs",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "179653eb-a835-4198-9fc7-fba93dc5696e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Osborne Tangerines",
+                "team1Abbr": "GJC",
+                "team2Name": "Marion Loosey Gooseys",
+                "team2Abbr": "LBFB",
+                "team3Name": "Liberal Explosions",
+                "team3Abbr": "TB",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "quadgaussian",
+                "description": "Game 3, West League Championship Series",
+                "season": 9,
+                "gameid": "42fa94e8-b57e-42f5-910a-6cd0253296d4",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "LIL",
+                "team2Name": "Sedgwick Malevolents",
+                "team2Abbr": "SGE",
+                "team3Name": "Gardner Palm Trees",
+                "team3Abbr": "FFF",
+                "team4Name": "Carbondale Footwork",
+                "team4Abbr": "OSHA",
+                "patternName": "orchard",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "a3131061-bb59-4718-8c5e-51036f0772fc",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Liberal Explosions",
+                "team2Abbr": "TB",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Marion Loosey Gooseys",
+                "team4Abbr": "LBFB",
+                "patternName": "rabbits",
+                "description": "Game 4, West League Championship Series",
+                "season": 9,
+                "gameid": "dc573455-259c-42c3-8b9a-d765f2b3a2a8",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sedgwick Malevolents",
+                "team1Abbr": "SGE",
+                "team2Name": "Carbondale Footwork",
+                "team2Abbr": "OSHA",
+                "team3Name": "Elwood Skulls",
+                "team3Abbr": "LIL",
+                "team4Name": "Gardner Palm Trees",
+                "team4Abbr": "FFF",
+                "patternName": "justyna",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "e478cfe3-4c61-428d-8d7f-33474bf36985",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Liberal Explosions",
+                "team2Abbr": "TB",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "sunburst",
+                "description": "Game 5, West League Championship Series",
+                "season": 9,
+                "gameid": "82c56e7f-6e3a-4be0-bc38-2e0e5d289f98",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Gardner Palm Trees",
+                "team1Abbr": "FFF",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "LIL",
+                "team3Name": "Carbondale Footwork",
+                "team3Abbr": "OSHA",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "multum",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "d2640b3b-283e-477e-85a6-eff6063dbd26",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Osborne Tangerines",
+                "team2Abbr": "GJC",
+                "team3Name": "Liberal Explosions",
+                "team3Abbr": "TB",
+                "team4Name": "Marion Loosey Gooseys",
+                "team4Abbr": "LBFB",
+                "patternName": "crabs",
+                "description": "Game 6, West League Championship Series",
+                "season": 9,
+                "gameid": "75ac72da-e8b8-453e-9035-6f6723a08250",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sedgwick Malevolents",
+                "team1Abbr": "SGE",
+                "team2Name": "Gardner Palm Trees",
+                "team2Abbr": "FFF",
+                "team3Name": "Elwood Skulls",
+                "team3Abbr": "LIL",
+                "team4Name": "Carbondale Footwork",
+                "team4Abbr": "OSHA",
+                "patternName": "rainbow",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "c351f3f8-5921-4dbe-8eec-b8b0478b89aa",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Liberal Explosions",
+                "team1Abbr": "TB",
+                "team2Name": "Marion Loosey Gooseys",
+                "team2Abbr": "LBFB",
+                "team3Name": "Silver Lake Losers",
+                "team3Abbr": "VV",
+                "team4Name": "Osborne Tangerines",
+                "team4Abbr": "GJC",
+                "patternName": "randommethuselahs",
+                "description": "Game 7, West League Championship Series",
+                "season": 9,
+                "gameid": "aa91c43a-1aa3-4650-a84c-6ca871e52acc",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Gardner Palm Trees",
+                "team1Abbr": "FFF",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "LIL",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Carbondale Footwork",
+                "team4Abbr": "OSHA",
+                "patternName": "randommethuselahs",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "cd85bd63-6204-45b6-a35a-410c93f05266",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Liberal Explosions",
+                "team1Abbr": "TB",
+                "team2Name": "Marion Loosey Gooseys",
+                "team2Abbr": "LBFB",
+                "team3Name": "Silver Lake Losers",
+                "team3Abbr": "VV",
+                "team4Name": "Osborne Tangerines",
+                "team4Abbr": "GJC",
+                "patternName": "random",
+                "description": "Game 8, West League Championship Series",
+                "season": 9,
+                "gameid": "683d29c3-1ebd-46c6-a9f5-3d3a3e835cf0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "LIL",
+                "team2Name": "Gardner Palm Trees",
+                "team2Abbr": "FFF",
+                "team3Name": "Carbondale Footwork",
+                "team3Abbr": "OSHA",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "multum",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 9,
+                "gameid": "9486a78f-61ac-4dd8-add8-40be577809ef",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Osborne Tangerines",
+                "team2Abbr": "GJC",
+                "team3Name": "Marion Loosey Gooseys",
+                "team3Abbr": "LBFB",
+                "team4Name": "Liberal Explosions",
+                "team4Abbr": "TB",
+                "patternName": "rainbowmath",
+                "description": "Game 9, West League Championship Series",
+                "season": 9,
+                "gameid": "8e199a3e-9659-46a1-b43a-97c5e9d74965",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "30e4bdb5-1e73-4269-b653-d657097a1dcd",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "d9eb428a-9bbe-46f6-a7e0-c5bad2be2833",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "55f8b315-ce15-4929-8118-f5f68c92ae15",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "13e39eb2-79d5-4126-87f5-909dedd6d23f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "3e75f32a-922a-41c1-931e-e716010b6460",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "0fbec05c-5868-45c9-a7aa-c7dd94d8e840",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "20ccdeb2-4b7f-4d06-a56f-8dae95c42f90",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "805ee342-ab8d-44d3-beff-7c583a30be35",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 9,
+                "gameid": "8236cc81-5bec-4aac-ba9d-d8e39fc7ad1e",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
