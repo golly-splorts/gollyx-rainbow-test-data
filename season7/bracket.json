@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Kechi Beachtowels",
+                "team1Abbr": "DET",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "LIL",
+                "team3Name": "Oakley Posterchildren",
+                "team3Abbr": "DECO",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "multum",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "406c72d2-cd92-4832-a11e-d8616ec652c7",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Pratt Individualists",
+                "team2Abbr": "SFBS",
+                "team3Name": "Marion Loosey Gooseys",
+                "team3Abbr": "LBFB",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "sunburst",
+                "description": "Game 1, West League Championship Series",
+                "season": 7,
+                "gameid": "e95f4de8-8f84-4d54-9d39-c1e9c50c0964",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Kechi Beachtowels",
+                "team1Abbr": "DET",
+                "team2Name": "Oakley Posterchildren",
+                "team2Abbr": "DECO",
+                "team3Name": "Smith Center Slugs",
+                "team3Abbr": "ORL",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "LIL",
+                "patternName": "timebombredux",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "04bd6bd3-1e52-47cd-b5cf-fcdcb7c8c771",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Pratt Individualists",
+                "team3Abbr": "SFBS",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "patiolights",
+                "description": "Game 2, West League Championship Series",
+                "season": 7,
+                "gameid": "26d99e7f-e281-4e39-a5d7-b8a90a2bdfeb",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "LIL",
+                "team3Name": "Kechi Beachtowels",
+                "team3Abbr": "DET",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "crabs",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "9fe6b36a-f024-4949-9aa4-a29269d408a4",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Pratt Individualists",
+                "team2Abbr": "SFBS",
+                "team3Name": "Marion Loosey Gooseys",
+                "team3Abbr": "LBFB",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "rainbowmath",
+                "description": "Game 3, West League Championship Series",
+                "season": 7,
+                "gameid": "52231bd3-ac08-4167-a540-e36bdf8f6f65",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Smith Center Slugs",
+                "team1Abbr": "ORL",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "LIL",
+                "team3Name": "Kechi Beachtowels",
+                "team3Abbr": "DET",
+                "team4Name": "Oakley Posterchildren",
+                "team4Abbr": "DECO",
+                "patternName": "quadgaussian",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "afd4906a-57c7-41f0-9711-bf9ee4deefb2",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Pratt Individualists",
+                "team2Abbr": "SFBS",
+                "team3Name": "Marion Loosey Gooseys",
+                "team3Abbr": "LBFB",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "patiolights",
+                "description": "Game 4, West League Championship Series",
+                "season": 7,
+                "gameid": "35d7c284-22ae-42a5-95b8-0c1bf3cbef67",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "LIL",
+                "team3Name": "Kechi Beachtowels",
+                "team3Abbr": "DET",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "sunburst",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "6080fadf-53a6-4c6c-9be2-502f5a88652e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Pratt Individualists",
+                "team1Abbr": "SFBS",
+                "team2Name": "Silver Lake Losers",
+                "team2Abbr": "VV",
+                "team3Name": "Marion Loosey Gooseys",
+                "team3Abbr": "LBFB",
+                "team4Name": "Shawnee Flagellators",
+                "team4Abbr": "ABQ",
+                "patternName": "rabbits",
+                "description": "Game 5, West League Championship Series",
+                "season": 7,
+                "gameid": "6b36a33a-bce5-415f-9dfb-0626c83db963",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Kechi Beachtowels",
+                "team1Abbr": "DET",
+                "team2Name": "Oakley Posterchildren",
+                "team2Abbr": "DECO",
+                "team3Name": "Smith Center Slugs",
+                "team3Abbr": "ORL",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "LIL",
+                "patternName": "sunburst",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "7efb5c16-7d80-4444-8443-751e34f6e71c",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Pratt Individualists",
+                "team3Abbr": "SFBS",
+                "team4Name": "Marion Loosey Gooseys",
+                "team4Abbr": "LBFB",
+                "patternName": "quadgaussian",
+                "description": "Game 6, West League Championship Series",
+                "season": 7,
+                "gameid": "b01c852e-c77b-49c9-9193-9a9ad7932212",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "LIL",
+                "team2Name": "Smith Center Slugs",
+                "team2Abbr": "ORL",
+                "team3Name": "Kechi Beachtowels",
+                "team3Abbr": "DET",
+                "team4Name": "Oakley Posterchildren",
+                "team4Abbr": "DECO",
+                "patternName": "rainbow",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "f76eaee3-6aa5-41f1-9689-7afd9b456621",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Pratt Individualists",
+                "team1Abbr": "SFBS",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Silver Lake Losers",
+                "team3Abbr": "VV",
+                "team4Name": "Marion Loosey Gooseys",
+                "team4Abbr": "LBFB",
+                "patternName": "random",
+                "description": "Game 7, West League Championship Series",
+                "season": 7,
+                "gameid": "a4e3205a-070c-42b1-b9cb-7d611b3d806f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Kechi Beachtowels",
+                "team1Abbr": "DET",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "LIL",
+                "team3Name": "Smith Center Slugs",
+                "team3Abbr": "ORL",
+                "team4Name": "Oakley Posterchildren",
+                "team4Abbr": "DECO",
+                "patternName": "rainbow",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "0deaec5d-5521-4ca8-81fc-4a00ba48686e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Pratt Individualists",
+                "team1Abbr": "SFBS",
+                "team2Name": "Marion Loosey Gooseys",
+                "team2Abbr": "LBFB",
+                "team3Name": "Shawnee Flagellators",
+                "team3Abbr": "ABQ",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "eights",
+                "description": "Game 8, West League Championship Series",
+                "season": 7,
+                "gameid": "e7bc042f-5183-4049-81de-c9fdb97d07ae",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Elwood Skulls",
+                "team3Abbr": "LIL",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "multum",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 7,
+                "gameid": "bf7286e4-6bc6-40c1-b0af-6c7a9e62275d",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Marion Loosey Gooseys",
+                "team2Abbr": "LBFB",
+                "team3Name": "Shawnee Flagellators",
+                "team3Abbr": "ABQ",
+                "team4Name": "Pratt Individualists",
+                "team4Abbr": "SFBS",
+                "patternName": "rainbowmath",
+                "description": "Game 9, West League Championship Series",
+                "season": 7,
+                "gameid": "2c982331-1bf2-4457-932d-fa8409bcd41b",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "777eb187-3edc-4396-8698-4af03656340b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "11df3850-4e82-4170-ac88-e030ce27ff5d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "3ae22227-07f1-48e0-b8a5-714e8dbd4664",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "3fba0734-eed5-47bb-b418-4b9f26d97b93",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "ca1821ae-a00b-440b-b76c-9cee6a412dfd",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "c08f7d0a-e0ce-4bb9-a1f8-3a8916f6e340",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "01501085-5608-4bf7-8973-74614a69a49d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "f3a2047a-59de-4550-9056-2fb726f0bbe6",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 7,
+                "gameid": "bc131c15-7dd5-4adc-bc01-c10a3a0340ab",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
