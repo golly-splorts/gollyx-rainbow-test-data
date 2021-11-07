@@ -1,0 +1,170 @@
+[
+    {
+        "teamAbbr": "SS",
+        "teamName": "Larned Spellguds",
+        "teamColor": "#e86215",
+        "league": "West League",
+        "division": "Pacific Division"
+    },
+    {
+        "teamAbbr": "SFBS",
+        "teamName": "Pratt Individualists",
+        "teamColor": "#e7d7c1",
+        "league": "West League",
+        "division": "Pacific Division"
+    },
+    {
+        "teamAbbr": "SAC",
+        "teamName": "Salina Anchors",
+        "teamColor": "#ffb627",
+        "league": "West League",
+        "division": "Pacific Division"
+    },
+    {
+        "teamAbbr": "VV",
+        "teamName": "Silver Lake Losers",
+        "teamColor": "#aa8040",
+        "league": "West League",
+        "division": "Pacific Division"
+    },
+    {
+        "teamAbbr": "TB",
+        "teamName": "Liberal Explosions",
+        "teamColor": "#BB0000",
+        "league": "West League",
+        "division": "Southwest Division"
+    },
+    {
+        "teamAbbr": "FF",
+        "teamName": "Lyons Waste Dumps",
+        "teamColor": "#b0b0b0",
+        "league": "West League",
+        "division": "Southwest Division"
+    },
+    {
+        "teamAbbr": "SDBA",
+        "teamName": "Osawatomie Surgeons",
+        "teamColor": "#f08700",
+        "league": "West League",
+        "division": "Southwest Division"
+    },
+    {
+        "teamAbbr": "LBFB",
+        "teamName": "Marion Loosey Gooseys",
+        "teamColor": "#f2c57c",
+        "league": "West League",
+        "division": "Southwest Division"
+    },
+    {
+        "teamAbbr": "EA",
+        "teamName": "Cimmaron Goldeneyes",
+        "teamColor": "#a0e7e5",
+        "league": "West League",
+        "division": "Mountain Division"
+    },
+    {
+        "teamAbbr": "SLC",
+        "teamName": "Tonganoxie Bootyshakers",
+        "teamColor": "#00cc44",
+        "league": "West League",
+        "division": "Mountain Division"
+    },
+    {
+        "teamAbbr": "ABQ",
+        "teamName": "Shawnee Flagellators",
+        "teamColor": "#d41199",
+        "league": "West League",
+        "division": "Mountain Division"
+    },
+    {
+        "teamAbbr": "GJC",
+        "teamName": "Osborne Tangerines",
+        "teamColor": "#8080ff",
+        "league": "West League",
+        "division": "Mountain Division"
+    },
+    {
+        "teamAbbr": "DECO",
+        "teamName": "Oakley Posterchildren",
+        "teamColor": "#e8a0e7",
+        "league": "Unwest League",
+        "division": "Northunwest Division"
+    },
+    {
+        "teamAbbr": "OSHA",
+        "teamName": "Carbondale Footwork",
+        "teamColor": "#53917e",
+        "league": "Unwest League",
+        "division": "Northunwest Division"
+    },
+    {
+        "teamAbbr": "AA",
+        "teamName": "Ness City Big Cats",
+        "teamColor": "#ff1717",
+        "league": "Unwest League",
+        "division": "Northunwest Division"
+    },
+    {
+        "teamAbbr": "BB",
+        "teamName": "Galena Sammies",
+        "teamColor": "#697a21",
+        "league": "Unwest League",
+        "division": "Northunwest Division"
+    },
+    {
+        "teamAbbr": "ORL",
+        "teamName": "Smith Center Slugs",
+        "teamColor": "#0dab76",
+        "league": "Unwest League",
+        "division": "South Division"
+    },
+    {
+        "teamAbbr": "LIL",
+        "teamName": "Elwood Skulls",
+        "teamColor": "#ef6f6c",
+        "league": "Unwest League",
+        "division": "South Division"
+    },
+    {
+        "teamAbbr": "SGE",
+        "teamName": "Sedgwick Malevolents",
+        "teamColor": "#fefe67",
+        "league": "Unwest League",
+        "division": "South Division"
+    },
+    {
+        "teamAbbr": "MW",
+        "teamName": "Chapman Oxidation",
+        "teamColor": "#6060bb",
+        "league": "Unwest League",
+        "division": "South Division"
+    },
+    {
+        "teamAbbr": "MILF",
+        "teamName": "Sabetha Seasides",
+        "teamColor": "#ff66cc",
+        "league": "Unwest League",
+        "division": "Cold Division"
+    },
+    {
+        "teamAbbr": "DET",
+        "teamName": "Kechi Beachtowels",
+        "teamColor": "#9963ab",
+        "league": "Unwest League",
+        "division": "Cold Division"
+    },
+    {
+        "teamAbbr": "FFF",
+        "teamName": "Gardner Palm Trees",
+        "teamColor": "#daed20",
+        "league": "Unwest League",
+        "division": "Cold Division"
+    },
+    {
+        "teamAbbr": "BPT",
+        "teamName": "Dighton Surfers",
+        "teamColor": "#3e92cc",
+        "league": "Unwest League",
+        "division": "Cold Division"
+    }
+]
