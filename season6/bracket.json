@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Gardner Palm Trees",
+                "team1Abbr": "FFF",
+                "team2Name": "Dighton Surfers",
+                "team2Abbr": "BPT",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Ness City Big Cats",
+                "team4Abbr": "AA",
+                "patternName": "multum",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "23d327f4-175a-4f24-99f8-40872f2c7d29",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Pratt Individualists",
+                "team1Abbr": "SFBS",
+                "team2Name": "Osborne Tangerines",
+                "team2Abbr": "GJC",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "eights",
+                "description": "Game 1, West League Championship Series",
+                "season": 6,
+                "gameid": "3773f132-7869-45f2-8c73-c570313761b7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Gardner Palm Trees",
+                "team1Abbr": "FFF",
+                "team2Name": "Sedgwick Malevolents",
+                "team2Abbr": "SGE",
+                "team3Name": "Ness City Big Cats",
+                "team3Abbr": "AA",
+                "team4Name": "Dighton Surfers",
+                "team4Abbr": "BPT",
+                "patternName": "multum",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "8f3d6662-f59f-4dbb-9ab9-9de5548ba7e5",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Pratt Individualists",
+                "team1Abbr": "SFBS",
+                "team2Name": "Osborne Tangerines",
+                "team2Abbr": "GJC",
+                "team3Name": "Silver Lake Losers",
+                "team3Abbr": "VV",
+                "team4Name": "Lyons Waste Dumps",
+                "team4Abbr": "FF",
+                "patternName": "rainbowmath",
+                "description": "Game 2, West League Championship Series",
+                "season": 6,
+                "gameid": "efe12861-88be-45a1-b7e6-e212c3f8bef4",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Gardner Palm Trees",
+                "team1Abbr": "FFF",
+                "team2Name": "Ness City Big Cats",
+                "team2Abbr": "AA",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Dighton Surfers",
+                "team4Abbr": "BPT",
+                "patternName": "rabbits",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "8bb48051-834c-42d3-bc7a-973b9acb4595",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Lyons Waste Dumps",
+                "team1Abbr": "FF",
+                "team2Name": "Pratt Individualists",
+                "team2Abbr": "SFBS",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "multum",
+                "description": "Game 3, West League Championship Series",
+                "season": 6,
+                "gameid": "f0008361-eb2b-4f49-9d02-39fe938e19a6",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sedgwick Malevolents",
+                "team1Abbr": "SGE",
+                "team2Name": "Dighton Surfers",
+                "team2Abbr": "BPT",
+                "team3Name": "Ness City Big Cats",
+                "team3Abbr": "AA",
+                "team4Name": "Gardner Palm Trees",
+                "team4Abbr": "FFF",
+                "patternName": "rainbow",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "53095ece-565c-4f1b-8b58-3da4ccf0aa57",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Pratt Individualists",
+                "team1Abbr": "SFBS",
+                "team2Name": "Silver Lake Losers",
+                "team2Abbr": "VV",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Lyons Waste Dumps",
+                "team4Abbr": "FF",
+                "patternName": "eights",
+                "description": "Game 4, West League Championship Series",
+                "season": 6,
+                "gameid": "b2e9a5d0-0486-4703-abc5-1e2c5fa09fe6",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Dighton Surfers",
+                "team1Abbr": "BPT",
+                "team2Name": "Sedgwick Malevolents",
+                "team2Abbr": "SGE",
+                "team3Name": "Ness City Big Cats",
+                "team3Abbr": "AA",
+                "team4Name": "Gardner Palm Trees",
+                "team4Abbr": "FFF",
+                "patternName": "multum",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "6f2c894d-3f62-4eda-a567-586689988b2f",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Osborne Tangerines",
+                "team1Abbr": "GJC",
+                "team2Name": "Silver Lake Losers",
+                "team2Abbr": "VV",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Pratt Individualists",
+                "team4Abbr": "SFBS",
+                "patternName": "eights",
+                "description": "Game 5, West League Championship Series",
+                "season": 6,
+                "gameid": "62c1ec18-645e-4e74-a63d-5d0229722ac9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Ness City Big Cats",
+                "team1Abbr": "AA",
+                "team2Name": "Gardner Palm Trees",
+                "team2Abbr": "FFF",
+                "team3Name": "Dighton Surfers",
+                "team3Abbr": "BPT",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "eights",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "b6b14a5a-a97c-4143-9565-29428b04a3a8",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Pratt Individualists",
+                "team1Abbr": "SFBS",
+                "team2Name": "Lyons Waste Dumps",
+                "team2Abbr": "FF",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "crabs",
+                "description": "Game 6, West League Championship Series",
+                "season": 6,
+                "gameid": "3460e449-b971-4058-8e25-2b4b5252be55",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Dighton Surfers",
+                "team1Abbr": "BPT",
+                "team2Name": "Ness City Big Cats",
+                "team2Abbr": "AA",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Gardner Palm Trees",
+                "team4Abbr": "FFF",
+                "patternName": "justyna",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "b4933ee6-ff49-4ab4-9a78-35874170af89",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Lyons Waste Dumps",
+                "team1Abbr": "FF",
+                "team2Name": "Osborne Tangerines",
+                "team2Abbr": "GJC",
+                "team3Name": "Silver Lake Losers",
+                "team3Abbr": "VV",
+                "team4Name": "Pratt Individualists",
+                "team4Abbr": "SFBS",
+                "patternName": "quadgaussian",
+                "description": "Game 7, West League Championship Series",
+                "season": 6,
+                "gameid": "7d3a83fc-0bec-4556-b10d-6d34af32e48a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Dighton Surfers",
+                "team1Abbr": "BPT",
+                "team2Name": "Gardner Palm Trees",
+                "team2Abbr": "FFF",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Ness City Big Cats",
+                "team4Abbr": "AA",
+                "patternName": "timebomb",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "b3cb154c-e2b6-439f-9266-5ecf63635098",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Lyons Waste Dumps",
+                "team2Abbr": "FF",
+                "team3Name": "Pratt Individualists",
+                "team3Abbr": "SFBS",
+                "team4Name": "Osborne Tangerines",
+                "team4Abbr": "GJC",
+                "patternName": "randommethuselahs",
+                "description": "Game 8, West League Championship Series",
+                "season": 6,
+                "gameid": "bac8443e-eb07-4a6e-8d3a-f9a32f1acacd",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Dighton Surfers",
+                "team1Abbr": "BPT",
+                "team2Name": "Gardner Palm Trees",
+                "team2Abbr": "FFF",
+                "team3Name": "Ness City Big Cats",
+                "team3Abbr": "AA",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "patiolights",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 6,
+                "gameid": "0da56b84-1af4-4c49-9afd-75d5f8c118ca",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Pratt Individualists",
+                "team1Abbr": "SFBS",
+                "team2Name": "Lyons Waste Dumps",
+                "team2Abbr": "FF",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "rainbow",
+                "description": "Game 9, West League Championship Series",
+                "season": 6,
+                "gameid": "f621330b-8b28-4d67-b79a-635350672344",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "ea1adb9d-f531-484f-9116-c5890ea6b395",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "9c95a46f-2eab-4b23-8725-89a65e57e640",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "0a8cda55-da16-4878-a829-ceca4b85dd83",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "32c6e0ce-590b-4712-ab29-3fa6e4e17019",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "6c509745-2d0e-4972-b94e-480c9e10aa45",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "8438ad38-c013-4c5d-9a13-b71427e0364d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "d63a163e-6e85-4993-9a65-5bda2527e26a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "78068e56-a552-4913-b979-665a4f141330",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 6,
+                "gameid": "d5d97121-da7d-47d6-8acf-3a8fdbbbe30e",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
