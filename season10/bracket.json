@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sedgwick Malevolents",
+                "team1Abbr": "SGE",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Galena Sammies",
+                "team3Abbr": "BB",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "eights",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "d75b2b7e-0048-478e-822f-20c2d4c4314e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Osawatomie Surgeons",
+                "team1Abbr": "SDBA",
+                "team2Name": "Cimmaron Goldeneyes",
+                "team2Abbr": "EA",
+                "team3Name": "Shawnee Flagellators",
+                "team3Abbr": "ABQ",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "sunburst",
+                "description": "Game 1, West League Championship Series",
+                "season": 10,
+                "gameid": "0e096d0f-ee39-4de9-86f5-d70b6a2621f3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Galena Sammies",
+                "team1Abbr": "BB",
+                "team2Name": "Smith Center Slugs",
+                "team2Abbr": "ORL",
+                "team3Name": "Kechi Beachtowels",
+                "team3Abbr": "DET",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "rainbow",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "6d1eca5b-f6d1-44cc-9b8d-7e8297fa7a0e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Silver Lake Losers",
+                "team2Abbr": "VV",
+                "team3Name": "Shawnee Flagellators",
+                "team3Abbr": "ABQ",
+                "team4Name": "Osawatomie Surgeons",
+                "team4Abbr": "SDBA",
+                "patternName": "justyna",
+                "description": "Game 2, West League Championship Series",
+                "season": 10,
+                "gameid": "8dc84adb-9ae1-4033-9b24-6fbf0e25ce43",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sedgwick Malevolents",
+                "team1Abbr": "SGE",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Smith Center Slugs",
+                "team3Abbr": "ORL",
+                "team4Name": "Galena Sammies",
+                "team4Abbr": "BB",
+                "patternName": "justyna",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "300f8cf3-58a3-42ec-af61-10573dab9ae3",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Silver Lake Losers",
+                "team3Abbr": "VV",
+                "team4Name": "Osawatomie Surgeons",
+                "team4Abbr": "SDBA",
+                "patternName": "orchard",
+                "description": "Game 3, West League Championship Series",
+                "season": 10,
+                "gameid": "0380c3a5-8ada-42e0-8905-23656bb3da65",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Galena Sammies",
+                "team1Abbr": "BB",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "patiolights",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "89dfa21a-f72a-4920-965d-5ba7f5127670",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Cimmaron Goldeneyes",
+                "team2Abbr": "EA",
+                "team3Name": "Shawnee Flagellators",
+                "team3Abbr": "ABQ",
+                "team4Name": "Osawatomie Surgeons",
+                "team4Abbr": "SDBA",
+                "patternName": "multum",
+                "description": "Game 4, West League Championship Series",
+                "season": 10,
+                "gameid": "9a95ec97-b15e-4b63-98e5-437a61c24b33",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Smith Center Slugs",
+                "team1Abbr": "ORL",
+                "team2Name": "Sedgwick Malevolents",
+                "team2Abbr": "SGE",
+                "team3Name": "Galena Sammies",
+                "team3Abbr": "BB",
+                "team4Name": "Kechi Beachtowels",
+                "team4Abbr": "DET",
+                "patternName": "crabs",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "6571bdff-54be-457d-8b4f-72f58654b8d3",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Cimmaron Goldeneyes",
+                "team2Abbr": "EA",
+                "team3Name": "Shawnee Flagellators",
+                "team3Abbr": "ABQ",
+                "team4Name": "Osawatomie Surgeons",
+                "team4Abbr": "SDBA",
+                "patternName": "quadgaussian",
+                "description": "Game 5, West League Championship Series",
+                "season": 10,
+                "gameid": "6a111644-c7d7-488f-ab73-4e7966f040f3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sedgwick Malevolents",
+                "team1Abbr": "SGE",
+                "team2Name": "Galena Sammies",
+                "team2Abbr": "BB",
+                "team3Name": "Kechi Beachtowels",
+                "team3Abbr": "DET",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "crabs",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "9ff65744-e195-4f66-9d28-b41b77723ac5",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Osawatomie Surgeons",
+                "team2Abbr": "SDBA",
+                "team3Name": "Cimmaron Goldeneyes",
+                "team3Abbr": "EA",
+                "team4Name": "Shawnee Flagellators",
+                "team4Abbr": "ABQ",
+                "patternName": "random",
+                "description": "Game 6, West League Championship Series",
+                "season": 10,
+                "gameid": "475d7b20-2a23-4ce2-a17c-feff74131722",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Smith Center Slugs",
+                "team1Abbr": "ORL",
+                "team2Name": "Sedgwick Malevolents",
+                "team2Abbr": "SGE",
+                "team3Name": "Galena Sammies",
+                "team3Abbr": "BB",
+                "team4Name": "Kechi Beachtowels",
+                "team4Abbr": "DET",
+                "patternName": "justyna",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "13fc5098-c44c-49cb-88d9-078b103f929a",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Osawatomie Surgeons",
+                "team2Abbr": "SDBA",
+                "team3Name": "Cimmaron Goldeneyes",
+                "team3Abbr": "EA",
+                "team4Name": "Shawnee Flagellators",
+                "team4Abbr": "ABQ",
+                "patternName": "randommethuselahs",
+                "description": "Game 7, West League Championship Series",
+                "season": 10,
+                "gameid": "09158dfc-048b-4510-8dc8-61ef6bd6efba",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sedgwick Malevolents",
+                "team1Abbr": "SGE",
+                "team2Name": "Galena Sammies",
+                "team2Abbr": "BB",
+                "team3Name": "Kechi Beachtowels",
+                "team3Abbr": "DET",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "justyna",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "4fe63335-e339-4d0a-828d-d36d79190bcb",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Osawatomie Surgeons",
+                "team3Abbr": "SDBA",
+                "team4Name": "Cimmaron Goldeneyes",
+                "team4Abbr": "EA",
+                "patternName": "crabs",
+                "description": "Game 8, West League Championship Series",
+                "season": 10,
+                "gameid": "8b079941-0b1a-4aec-8e54-cc98741cd219",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Smith Center Slugs",
+                "team1Abbr": "ORL",
+                "team2Name": "Galena Sammies",
+                "team2Abbr": "BB",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Kechi Beachtowels",
+                "team4Abbr": "DET",
+                "patternName": "quadgaussian",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 10,
+                "gameid": "2e2bcc3c-132e-4fee-be3f-21339cf42ac5",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Silver Lake Losers",
+                "team2Abbr": "VV",
+                "team3Name": "Osawatomie Surgeons",
+                "team3Abbr": "SDBA",
+                "team4Name": "Shawnee Flagellators",
+                "team4Abbr": "ABQ",
+                "patternName": "rabbits",
+                "description": "Game 9, West League Championship Series",
+                "season": 10,
+                "gameid": "f9324593-9521-479c-8ab3-6286966bbdef",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "b944c60e-3117-467e-b64d-3b811e375865",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "658f0f1c-23b3-417a-a5c9-5fce86966206",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "063e65a6-de8f-42ff-8a65-6d2b1a04786f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "ce4019d2-a7e0-44a3-a52a-28743a77986a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "cc963195-d0de-45be-a835-256772501659",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "0d14391f-4a9f-4195-9e30-5e6eeeb471dd",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "bc3f810f-0dd2-4591-8ccf-597d9895b00f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "1c26ba42-8535-4081-a5b0-7323477e15cb",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "orchard",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 10,
+                "gameid": "7b588536-7ea8-4a9d-8f13-fc4127e989e1",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
