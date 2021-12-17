@@ -2,7 +2,7 @@ import os
 import json
 
 
-LAST_SEASON0 = 9
+LAST_SEASON0 = 10
 
 SERIES_GPD = {"LCS": 2, "RCS": 1}
 
@@ -499,30 +499,32 @@ for iseason in range(LAST_SEASON0 + 1):
     if rcslen != 9:
         raise Exception(f"Error: postseason RCS length is invalid: {rcslen} games, should be 9")
 
-    # postseason.json must have fewer teams than postseason.json
+    # postseason.json must have fewer teams than teams.json
     if len(postseason_team_names) >= len(teams):
         raise Exception(
             f"Error: postseason.json has too many teams: {len(postseason_team_names)} should be <= {len(teams)}"
         )
 
-    # postseason.json must have same number of teams as bracket.json
-    #pbeqlen = len(postseason_team_names) != len(bracket_team_names)
-    #pbeq = sorted(list(postseason_team_names)) != sorted(list(bracket_team_names))
-    #if pbeqlen or pbeq:
-    #    err = "Error: mismatch in postseason.json and bracket.json team names:\n"
-    #    err += f"bracket.json team names: {', '.join(bracket_team_names)}\n"
-    #    err += f"postseason.json team names: {', '.join(postseason_team_names)}\n"
-    #    raise Exception(err)
+    # Check if either choke artist was in the RCS
+    one_day = postseason['RCS'][0]
+    one_game = one_day[0]
+    for i in range(4):
+        abbr_key = f"team{i+1}Abbr"
+        abbr_val = one_game[abbr_key]
+        if abbr_val in ["BPT", "DET"]:
+            print("")
+            print("")
+            print("@"*40)
+            print("@"*40)
+            print(f"SEASON0 = {iseason}:")
+            print(f"{abbr_val} CHOKE ARTISTS REACHED THE RAINBOW CUP")
+            print("@"*40)
+            print("@"*40)
+            print("")
+            print("")
 
-    # skip checking that team names are the same, bracket has team name placeholders
 
-    ## postseason.json game ids must be a subset of bracket.json game ids
-    #diff = postseason_game_ids - bracket_game_ids
-    #if len(diff)>0:
-    #    err = "Error: mismatch in game IDs, game IDs found in postseason.json but not in bracket.json:\n"
-    #    for gameid in sorted(list(diff)):
-    #        err += f" - {gameid}\n"
-    #    raise Exception(err)
+
 
 
 print("***************************")
