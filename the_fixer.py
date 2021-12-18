@@ -60,11 +60,10 @@ def main():
         # filtering as we go
         new_lcs = []
 
-        
         for day in post['LCS']:
             new_day = []
             for game in day:
-                if 'Unleague' not in game['league']:
+                if 'Unwest' not in game['league']:
                     new_day.append(game)
                 else:
                     # Filter game
@@ -76,7 +75,7 @@ def main():
         post['LCS'] = new_lcs
 
         with open(postseason_json_file, 'w') as f:
-            json.dump(post, f)
+            json.dump(post, f, indent=4)
 
         print(f"Done repairing {postseason_json_file}.")
 
