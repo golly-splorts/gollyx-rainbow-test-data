@@ -5,10 +5,10 @@
                 "league": "Unwest League",
                 "team1Name": "Sedgwick Malevolents",
                 "team1Abbr": "SGE",
-                "team2Name": "Kechi Beachtowels",
-                "team2Abbr": "DET",
-                "team3Name": "Galena Sammies",
-                "team3Abbr": "BB",
+                "team2Name": "Galena Sammies",
+                "team2Abbr": "BB",
+                "team3Name": "Kechi Beachtowels",
+                "team3Abbr": "DET",
                 "team4Name": "Smith Center Slugs",
                 "team4Abbr": "ORL",
                 "description": "Game 1, Unwest League Championship Series",
@@ -47,7 +47,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 0,
-                "team2Color": "#9963ab",
+                "team2Color": "#697a21",
                 "team2SeriesW23L": [
                     0,
                     0,
@@ -55,7 +55,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 0,
-                "team3Color": "#697a21",
+                "team3Color": "#9963ab",
                 "team3SeriesW23L": [
                     0,
                     0,
@@ -149,12 +149,12 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Galena Sammies",
-                "team1Abbr": "BB",
+                "team1Name": "Kechi Beachtowels",
+                "team1Abbr": "DET",
                 "team2Name": "Smith Center Slugs",
                 "team2Abbr": "ORL",
-                "team3Name": "Kechi Beachtowels",
-                "team3Abbr": "DET",
+                "team3Name": "Galena Sammies",
+                "team3Abbr": "BB",
                 "team4Name": "Sedgwick Malevolents",
                 "team4Abbr": "SGE",
                 "description": "Game 2, Unwest League Championship Series",
@@ -185,7 +185,7 @@
                 "team3Rank": 1,
                 "team4Rank": 0,
                 "generations": 3355,
-                "team1Color": "#697a21",
+                "team1Color": "#9963ab",
                 "team1SeriesW23L": [
                     0,
                     1,
@@ -201,7 +201,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 8,
-                "team3Color": "#9963ab",
+                "team3Color": "#697a21",
                 "team3SeriesW23L": [
                     0,
                     0,
@@ -297,12 +297,12 @@
                 "league": "Unwest League",
                 "team1Name": "Sedgwick Malevolents",
                 "team1Abbr": "SGE",
-                "team2Name": "Kechi Beachtowels",
-                "team2Abbr": "DET",
+                "team2Name": "Galena Sammies",
+                "team2Abbr": "BB",
                 "team3Name": "Smith Center Slugs",
                 "team3Abbr": "ORL",
-                "team4Name": "Galena Sammies",
-                "team4Abbr": "BB",
+                "team4Name": "Kechi Beachtowels",
+                "team4Abbr": "DET",
                 "description": "Game 3, Unwest League Championship Series",
                 "season": 11,
                 "gameid": "300f8cf3-58a3-42ec-af61-10573dab9ae3",
@@ -339,7 +339,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 577,
-                "team2Color": "#9963ab",
+                "team2Color": "#697a21",
                 "team2SeriesW23L": [
                     0,
                     1,
@@ -355,7 +355,7 @@
                     0
                 ],
                 "team3SeriesTotalPoints": 83,
-                "team4Color": "#697a21",
+                "team4Color": "#9963ab",
                 "team4SeriesW23L": [
                     0,
                     1,
@@ -441,10 +441,10 @@
         [
             {
                 "league": "Unwest League",
-                "team1Name": "Galena Sammies",
-                "team1Abbr": "BB",
-                "team2Name": "Kechi Beachtowels",
-                "team2Abbr": "DET",
+                "team1Name": "Kechi Beachtowels",
+                "team1Abbr": "DET",
+                "team2Name": "Galena Sammies",
+                "team2Abbr": "BB",
                 "team3Name": "Sedgwick Malevolents",
                 "team3Abbr": "SGE",
                 "team4Name": "Smith Center Slugs",
@@ -477,7 +477,7 @@
                 "team3Rank": 2,
                 "team4Rank": 0,
                 "generations": 2598,
-                "team1Color": "#697a21",
+                "team1Color": "#9963ab",
                 "team1SeriesW23L": [
                     0,
                     1,
@@ -485,7 +485,7 @@
                     1
                 ],
                 "team1SeriesTotalPoints": 254,
-                "team2Color": "#9963ab",
+                "team2Color": "#697a21",
                 "team2SeriesW23L": [
                     1,
                     1,
@@ -591,10 +591,10 @@
                 "team1Abbr": "ORL",
                 "team2Name": "Sedgwick Malevolents",
                 "team2Abbr": "SGE",
-                "team3Name": "Galena Sammies",
-                "team3Abbr": "BB",
-                "team4Name": "Kechi Beachtowels",
-                "team4Abbr": "DET",
+                "team3Name": "Kechi Beachtowels",
+                "team3Abbr": "DET",
+                "team4Name": "Galena Sammies",
+                "team4Abbr": "BB",
                 "description": "Game 5, Unwest League Championship Series",
                 "season": 11,
                 "gameid": "6571bdff-54be-457d-8b4f-72f58654b8d3",
@@ -639,7 +639,7 @@
                     1
                 ],
                 "team2SeriesTotalPoints": 703,
-                "team3Color": "#697a21",
+                "team3Color": "#9963ab",
                 "team3SeriesW23L": [
                     0,
                     1,
@@ -647,7 +647,7 @@
                     2
                 ],
                 "team3SeriesTotalPoints": 328,
-                "team4Color": "#9963ab",
+                "team4Color": "#697a21",
                 "team4SeriesW23L": [
                     1,
                     2,
@@ -735,10 +735,10 @@
                 "league": "Unwest League",
                 "team1Name": "Sedgwick Malevolents",
                 "team1Abbr": "SGE",
-                "team2Name": "Galena Sammies",
-                "team2Abbr": "BB",
-                "team3Name": "Kechi Beachtowels",
-                "team3Abbr": "DET",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Galena Sammies",
+                "team3Abbr": "BB",
                 "team4Name": "Smith Center Slugs",
                 "team4Abbr": "ORL",
                 "description": "Game 6, Unwest League Championship Series",
@@ -777,7 +777,7 @@
                     1
                 ],
                 "team1SeriesTotalPoints": 987,
-                "team2Color": "#697a21",
+                "team2Color": "#9963ab",
                 "team2SeriesW23L": [
                     0,
                     2,
@@ -785,7 +785,7 @@
                     2
                 ],
                 "team2SeriesTotalPoints": 460,
-                "team3Color": "#9963ab",
+                "team3Color": "#697a21",
                 "team3SeriesW23L": [
                     1,
                     2,
@@ -883,10 +883,10 @@
                 "team1Abbr": "ORL",
                 "team2Name": "Sedgwick Malevolents",
                 "team2Abbr": "SGE",
-                "team3Name": "Galena Sammies",
-                "team3Abbr": "BB",
-                "team4Name": "Kechi Beachtowels",
-                "team4Abbr": "DET",
+                "team3Name": "Kechi Beachtowels",
+                "team3Abbr": "DET",
+                "team4Name": "Galena Sammies",
+                "team4Abbr": "BB",
                 "description": "Game 7, Unwest League Championship Series",
                 "season": 11,
                 "gameid": "13fc5098-c44c-49cb-88d9-078b103f929a",
@@ -931,7 +931,7 @@
                     2
                 ],
                 "team2SeriesTotalPoints": 987,
-                "team3Color": "#697a21",
+                "team3Color": "#9963ab",
                 "team3SeriesW23L": [
                     0,
                     3,
@@ -939,7 +939,7 @@
                     2
                 ],
                 "team3SeriesTotalPoints": 500,
-                "team4Color": "#9963ab",
+                "team4Color": "#697a21",
                 "team4SeriesW23L": [
                     2,
                     2,
@@ -1027,10 +1027,10 @@
                 "league": "Unwest League",
                 "team1Name": "Sedgwick Malevolents",
                 "team1Abbr": "SGE",
-                "team2Name": "Galena Sammies",
-                "team2Abbr": "BB",
-                "team3Name": "Kechi Beachtowels",
-                "team3Abbr": "DET",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Galena Sammies",
+                "team3Abbr": "BB",
                 "team4Name": "Smith Center Slugs",
                 "team4Abbr": "ORL",
                 "description": "Game 8, Unwest League Championship Series",
@@ -1069,7 +1069,7 @@
                     3
                 ],
                 "team1SeriesTotalPoints": 1092,
-                "team2Color": "#697a21",
+                "team2Color": "#9963ab",
                 "team2SeriesW23L": [
                     0,
                     3,
@@ -1077,7 +1077,7 @@
                     2
                 ],
                 "team2SeriesTotalPoints": 665,
-                "team3Color": "#9963ab",
+                "team3Color": "#697a21",
                 "team3SeriesW23L": [
                     3,
                     2,
@@ -1173,12 +1173,12 @@
                 "league": "Unwest League",
                 "team1Name": "Smith Center Slugs",
                 "team1Abbr": "ORL",
-                "team2Name": "Galena Sammies",
-                "team2Abbr": "BB",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
                 "team3Name": "Sedgwick Malevolents",
                 "team3Abbr": "SGE",
-                "team4Name": "Kechi Beachtowels",
-                "team4Abbr": "DET",
+                "team4Name": "Galena Sammies",
+                "team4Abbr": "BB",
                 "description": "Game 9, Unwest League Championship Series",
                 "season": 11,
                 "gameid": "2e2bcc3c-132e-4fee-be3f-21339cf42ac5",
@@ -1215,7 +1215,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 925,
-                "team2Color": "#697a21",
+                "team2Color": "#9963ab",
                 "team2SeriesW23L": [
                     0,
                     3,
@@ -1231,7 +1231,7 @@
                     3
                 ],
                 "team3SeriesTotalPoints": 1368,
-                "team4Color": "#9963ab",
+                "team4Color": "#697a21",
                 "team4SeriesW23L": [
                     3,
                     2,
@@ -1320,8 +1320,8 @@
             {
                 "team1Name": "Shawnee Flagellators",
                 "team1Abbr": "ABQ",
-                "team2Name": "Kechi Beachtowels",
-                "team2Abbr": "DET",
+                "team2Name": "Galena Sammies",
+                "team2Abbr": "BB",
                 "team3Name": "Cimmaron Goldeneyes",
                 "team3Abbr": "EA",
                 "team4Name": "Smith Center Slugs",
@@ -1362,7 +1362,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 0,
-                "team2Color": "#9963ab",
+                "team2Color": "#697a21",
                 "team2SeriesW23L": [
                     0,
                     0,
@@ -1393,8 +1393,8 @@
             {
                 "team1Name": "Cimmaron Goldeneyes",
                 "team1Abbr": "EA",
-                "team2Name": "Kechi Beachtowels",
-                "team2Abbr": "DET",
+                "team2Name": "Galena Sammies",
+                "team2Abbr": "BB",
                 "team3Name": "Shawnee Flagellators",
                 "team3Abbr": "ABQ",
                 "team4Name": "Smith Center Slugs",
@@ -1435,7 +1435,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 87,
-                "team2Color": "#9963ab",
+                "team2Color": "#697a21",
                 "team2SeriesW23L": [
                     0,
                     0,
@@ -1464,8 +1464,8 @@
         ],
         [
             {
-                "team1Name": "Kechi Beachtowels",
-                "team1Abbr": "DET",
+                "team1Name": "Galena Sammies",
+                "team1Abbr": "BB",
                 "team2Name": "Shawnee Flagellators",
                 "team2Abbr": "ABQ",
                 "team3Name": "Cimmaron Goldeneyes",
@@ -1500,7 +1500,7 @@
                 "team3Rank": 3,
                 "team4Rank": 2,
                 "generations": 2001,
-                "team1Color": "#9963ab",
+                "team1Color": "#697a21",
                 "team1SeriesW23L": [
                     0,
                     0,
@@ -1543,8 +1543,8 @@
                 "team2Abbr": "ABQ",
                 "team3Name": "Cimmaron Goldeneyes",
                 "team3Abbr": "EA",
-                "team4Name": "Kechi Beachtowels",
-                "team4Abbr": "DET",
+                "team4Name": "Galena Sammies",
+                "team4Abbr": "BB",
                 "description": "Game 4, Rainbow Cup Series",
                 "season": 11,
                 "gameid": "ce4019d2-a7e0-44a3-a52a-28743a77986a",
@@ -1597,7 +1597,7 @@
                     1
                 ],
                 "team3SeriesTotalPoints": 397,
-                "team4Color": "#9963ab",
+                "team4Color": "#697a21",
                 "team4SeriesW23L": [
                     1,
                     0,
@@ -1612,8 +1612,8 @@
             {
                 "team1Name": "Cimmaron Goldeneyes",
                 "team1Abbr": "EA",
-                "team2Name": "Kechi Beachtowels",
-                "team2Abbr": "DET",
+                "team2Name": "Galena Sammies",
+                "team2Abbr": "BB",
                 "team3Name": "Smith Center Slugs",
                 "team3Abbr": "ORL",
                 "team4Name": "Shawnee Flagellators",
@@ -1654,7 +1654,7 @@
                     1
                 ],
                 "team1SeriesTotalPoints": 745,
-                "team2Color": "#9963ab",
+                "team2Color": "#697a21",
                 "team2SeriesW23L": [
                     1,
                     0,
@@ -1687,8 +1687,8 @@
                 "team1Abbr": "EA",
                 "team2Name": "Smith Center Slugs",
                 "team2Abbr": "ORL",
-                "team3Name": "Kechi Beachtowels",
-                "team3Abbr": "DET",
+                "team3Name": "Galena Sammies",
+                "team3Abbr": "BB",
                 "team4Name": "Shawnee Flagellators",
                 "team4Abbr": "ABQ",
                 "description": "Game 6, Rainbow Cup Series",
@@ -1735,7 +1735,7 @@
                     0
                 ],
                 "team2SeriesTotalPoints": 896,
-                "team3Color": "#9963ab",
+                "team3Color": "#697a21",
                 "team3SeriesW23L": [
                     2,
                     0,
@@ -1756,8 +1756,8 @@
         ],
         [
             {
-                "team1Name": "Kechi Beachtowels",
-                "team1Abbr": "DET",
+                "team1Name": "Galena Sammies",
+                "team1Abbr": "BB",
                 "team2Name": "Shawnee Flagellators",
                 "team2Abbr": "ABQ",
                 "team3Name": "Smith Center Slugs",
@@ -1792,7 +1792,7 @@
                 "team3Rank": 0,
                 "team4Rank": 2,
                 "generations": 4447,
-                "team1Color": "#9963ab",
+                "team1Color": "#697a21",
                 "team1SeriesW23L": [
                     2,
                     0,
@@ -1829,8 +1829,8 @@
         ],
         [
             {
-                "team1Name": "Kechi Beachtowels",
-                "team1Abbr": "DET",
+                "team1Name": "Galena Sammies",
+                "team1Abbr": "BB",
                 "team2Name": "Cimmaron Goldeneyes",
                 "team2Abbr": "EA",
                 "team3Name": "Smith Center Slugs",
@@ -1865,7 +1865,7 @@
                 "team3Rank": 1,
                 "team4Rank": 0,
                 "generations": 3582,
-                "team1Color": "#9963ab",
+                "team1Color": "#697a21",
                 "team1SeriesW23L": [
                     2,
                     0,
@@ -1904,8 +1904,8 @@
             {
                 "team1Name": "Smith Center Slugs",
                 "team1Abbr": "ORL",
-                "team2Name": "Kechi Beachtowels",
-                "team2Abbr": "DET",
+                "team2Name": "Galena Sammies",
+                "team2Abbr": "BB",
                 "team3Name": "Shawnee Flagellators",
                 "team3Abbr": "ABQ",
                 "team4Name": "Cimmaron Goldeneyes",
@@ -1946,7 +1946,7 @@
                     0
                 ],
                 "team1SeriesTotalPoints": 1740,
-                "team2Color": "#9963ab",
+                "team2Color": "#697a21",
                 "team2SeriesW23L": [
                     2,
                     0,
