@@ -2,6 +2,7 @@ Version 59:
 
 * bespin retired, replaced by randal
 * next round of simulations with repaired backend
+* the_fixer.py, moving project choke to the data repo
 
 Version 50:
 
