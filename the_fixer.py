@@ -14,11 +14,16 @@ def main():
     postseason_json_file = os.path.join(f'season{WHICH_SEASON0}', 'postseason.json')
     if not os.path.exists(postseason_json_file):
         raise Exception(f"Error: could not find json file: {postseason_json_file}")
-
-    new_postseason_json_file = os.path.join(f'season{WHICH_SEASON0}', 'new_postseason.json')
-
     with open(postseason_json_file, 'r') as f:
         post = json.load(f)
+
+    teams_json_file = os.path.join(f'season{WHICH_SEASON0}', 'teams.json')
+    if not os.path.exists(teams_json_file):
+        raise Exception(f"Error: could not find json file: {teams_json_file}")
+    with open(teams_json_file, 'r') as f:
+        teams = json.load(f)
+
+    new_postseason_json_file = os.path.join(f'season{WHICH_SEASON0}', 'new_postseason.json')
 
     # Start by getting sorted tuples (team, rainbows, points)
     lcs_tup = []
@@ -55,11 +60,12 @@ def main():
         if swap_with_abbr in loser_abbrs:
             swap_with_abbr = lcs_tup[2][0]
 
-        # Iterate through existing LCS,
-        # copy games into new LCS,
-        # filtering as we go
-        new_lcs = []
+        # Iterate through entire postseason,
+        # recreating structure,
+        # filtering games as we go.
+        new_post = {}
 
+        new_lcs = []
         for day in post['LCS']:
             new_day = []
             for game in day:
@@ -67,12 +73,21 @@ def main():
                     new_day.append(game)
                 else:
                     # Filter game
-                    new_game = filter_game(game, choke_abbr, swap_with_abbr)
+                    new_game = filter_game_swap_abbrs(game, choke_abbr, swap_with_abbr)
                     new_day.append(new_game)
 
             new_lcs.append(new_day)
 
-        post['LCS'] = new_lcs
+        new_post['LCS'] = new_lcs
+
+        new_rcs = []
+        for day in post['RCS']:
+            new_day = []
+            for game in day:
+                new_game = filter_game_replace_abbrs(game, choke_abbr, swap_with_abbr, teams)
+            new_rcs.append(new_day)
+
+        new_post['RCS'] = new_rcs
 
         with open(postseason_json_file, 'w') as f:
             json.dump(post, f, indent=4)
@@ -80,8 +95,34 @@ def main():
         print(f"Done repairing {postseason_json_file}.")
 
 
+def filter_game_replace_abbrs(game, choke_abbr, swap_with_abbr, teams):
+    nteams = 4
 
-def filter_game(game, choke_abbr, swap_with_abbr):
+    # Get a list of abbreviations in team ix order
+    abbrs = []
+    for i in range(nteams):
+        abbr_key = f"team{i+1}Abbr"
+        abbr_val = game[abbr_key]
+        abbrs.append(abbr_val)
+
+    iChoke = abbrs.index(choke_abbr)
+
+    # Get the new name/abbr/color values
+    for team in teams:
+        if team['teamAbbr'] == swap_with_abbr:
+            swap_name = team['teamName']
+            swap_abbr = team['teamAbbr']
+            swap_color = team['teamColor']
+
+    # Replace name/abbr/color labels
+    game[f"team{iChoke+1}Name"] = swap_name
+    game[f"team{iChoke+1}Abbr"] = swap_abbr
+    game[f"team{iChoke+1}Color"] = swap_color
+
+    return game
+
+
+def filter_game_swap_abbrs(game, choke_abbr, swap_with_abbr):
     nteams = 4
 
     # Get a list of abbreviations in team ix order
@@ -95,8 +136,8 @@ def filter_game(game, choke_abbr, swap_with_abbr):
     iSwap = abbrs.index(swap_with_abbr)
 
     # Swap labels that are team identifiers,
-    # Leave aloen labels that set performance.
-    swap_labels_suffixes = [
+    # Leave alone labels that set performance.
+    swap_label_suffixes = [
         "Name",
         "Abbr",
         "Color",
