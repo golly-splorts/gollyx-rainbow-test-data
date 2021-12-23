@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Dighton Surfers",
+                "team1Abbr": "BPT",
+                "team2Name": "Oakley Posterchildren",
+                "team2Abbr": "DECO",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Carbondale Footwork",
+                "team4Abbr": "OSHA",
+                "patternName": "multum",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 13,
+                "gameid": "1c8c1d1f-919f-4863-a33d-5fb1feaf567e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Marion Loosey Gooseys",
+                "team2Abbr": "LBFB",
+                "team3Name": "Cimmaron Goldeneyes",
+                "team3Abbr": "EA",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "orchard",
+                "description": "Game 1, West League Championship Series",
+                "season": 13,
+                "gameid": "ae47d210-dcbd-463c-9cbc-b2f8c42c8200",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Carbondale Footwork",
+                "team1Abbr": "OSHA",
+                "team2Name": "Sedgwick Malevolents",
+                "team2Abbr": "SGE",
+                "team3Name": "Dighton Surfers",
+                "team3Abbr": "BPT",
+                "team4Name": "Oakley Posterchildren",
+                "team4Abbr": "DECO",
+                "patternName": "timebombredux",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 13,
+                "gameid": "e3f7b9db-b79d-4053-8a6d-91051efe6bd0",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Cimmaron Goldeneyes",
+                "team3Abbr": "EA",
+                "team4Name": "Marion Loosey Gooseys",
+                "team4Abbr": "LBFB",
+                "patternName": "orchard",
+                "description": "Game 2, West League Championship Series",
+                "season": 13,
+                "gameid": "f6f819cc-02df-4039-b12c-5eb4b1f2fd03",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sedgwick Malevolents",
+                "team1Abbr": "SGE",
+                "team2Name": "Carbondale Footwork",
+                "team2Abbr": "OSHA",
+                "team3Name": "Dighton Surfers",
+                "team3Abbr": "BPT",
+                "team4Name": "Oakley Posterchildren",
+                "team4Abbr": "DECO",
+                "patternName": "sunburst",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 13,
+                "gameid": "59f4e8cc-5064-4ad4-a5f7-f0473e370f83",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Cimmaron Goldeneyes",
+                "team3Abbr": "EA",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "justyna",
+                "description": "Game 3, West League Championship Series",
+                "season": 13,
+                "gameid": "b7141ade-1750-465f-80e0-76d1c3a310f5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Carbondale Footwork",
+                "team1Abbr": "OSHA",
+                "team2Name": "Oakley Posterchildren",
+                "team2Abbr": "DECO",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Dighton Surfers",
+                "team4Abbr": "BPT",
+                "patternName": "justyna",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 13,
+                "gameid": "cd77f3c9-ef90-4701-aa6c-3cfb83627b7f",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Silver Lake Losers",
+                "team2Abbr": "VV",
+                "team3Name": "Cimmaron Goldeneyes",
+                "team3Abbr": "EA",
+                "team4Name": "Marion Loosey Gooseys",
+                "team4Abbr": "LBFB",
+                "patternName": "rainbow",
+                "description": "Game 4, West League Championship Series",
+                "season": 13,
+                "gameid": "e3fa517b-bb21-40eb-bb6a-131ea7d112a8",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Carbondale Footwork",
+                "team1Abbr": "OSHA",
+                "team2Name": "Oakley Posterchildren",
+                "team2Abbr": "DECO",
+                "team3Name": "Dighton Surfers",
+                "team3Abbr": "BPT",
+                "team4Name": "Sedgwick Malevolents",
+                "team4Abbr": "SGE",
+                "patternName": "orchard",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 13,
+                "gameid": "9d5d5ac8-7ec3-4a18-879f-d0cded4addca",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Cimmaron Goldeneyes",
+                "team2Abbr": "EA",
+                "team3Name": "Shawnee Flagellators",
+                "team3Abbr": "ABQ",
+                "team4Name": "Marion Loosey Gooseys",
+                "team4Abbr": "LBFB",
+                "patternName": "multum",
+                "description": "Game 5, West League Championship Series",
+                "season": 13,
+                "gameid": "2fa9fd6d-099c-4299-acc7-556e1b944dd5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Dighton Surfers",
+                "team2Abbr": "BPT",
+                "team3Name": "Sedgwick Malevolents",
+                "team3Abbr": "SGE",
+                "team4Name": "Carbondale Footwork",
+                "team4Abbr": "OSHA",
+                "patternName": "crabs",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 13,
+                "gameid": "c0079eb9-94d6-419a-a39c-2ce7955746df",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Cimmaron Goldeneyes",
+                "team2Abbr": "EA",
+                "team3Name": "Marion Loosey Gooseys",
+                "team3Abbr": "LBFB",
+                "team4Name": "Shawnee Flagellators",
+                "team4Abbr": "ABQ",
+                "patternName": "orchard",
+                "description": "Game 6, West League Championship Series",
+                "season": 13,
+                "gameid": "18e16b53-e460-42c2-86c7-ee467d302c81",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Dighton Surfers",
+                "team1Abbr": "BPT",
+                "team2Name": "Sedgwick Malevolents",
+                "team2Abbr": "SGE",
+                "team3Name": "Oakley Posterchildren",
+                "team3Abbr": "DECO",
+                "team4Name": "Carbondale Footwork",
+                "team4Abbr": "OSHA",
+                "patternName": "crabs",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 13,
+                "gameid": "b629790c-1e77-4b54-8250-ae76b4a67000",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Marion Loosey Gooseys",
+                "team2Abbr": "LBFB",
+                "team3Name": "Silver Lake Losers",
+                "team3Abbr": "VV",
+                "team4Name": "Cimmaron Goldeneyes",
+                "team4Abbr": "EA",
+                "patternName": "sunburst",
+                "description": "Game 7, West League Championship Series",
+                "season": 13,
+                "gameid": "c314a75c-9caa-4141-8d40-b3ec6c245ae6",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Dighton Surfers",
+                "team1Abbr": "BPT",
+                "team2Name": "Sedgwick Malevolents",
+                "team2Abbr": "SGE",
+                "team3Name": "Carbondale Footwork",
+                "team3Abbr": "OSHA",
+                "team4Name": "Oakley Posterchildren",
+                "team4Abbr": "DECO",
+                "patternName": "random",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 13,
+                "gameid": "635b3c33-d801-463a-bc87-841d9159edc1",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Silver Lake Losers",
+                "team2Abbr": "VV",
+                "team3Name": "Shawnee Flagellators",
+                "team3Abbr": "ABQ",
+                "team4Name": "Marion Loosey Gooseys",
+                "team4Abbr": "LBFB",
+                "patternName": "rabbits",
+                "description": "Game 8, West League Championship Series",
+                "season": 13,
+                "gameid": "f1d0fa5d-aee8-41d2-bcc5-4f562ab4ca3d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Oakley Posterchildren",
+                "team1Abbr": "DECO",
+                "team2Name": "Sedgwick Malevolents",
+                "team2Abbr": "SGE",
+                "team3Name": "Carbondale Footwork",
+                "team3Abbr": "OSHA",
+                "team4Name": "Dighton Surfers",
+                "team4Abbr": "BPT",
+                "patternName": "random",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 13,
+                "gameid": "26932a07-721a-44ea-845e-73d5a5abea4e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Marion Loosey Gooseys",
+                "team2Abbr": "LBFB",
+                "team3Name": "Cimmaron Goldeneyes",
+                "team3Abbr": "EA",
+                "team4Name": "Shawnee Flagellators",
+                "team4Abbr": "ABQ",
+                "patternName": "patiolights",
+                "description": "Game 9, West League Championship Series",
+                "season": 13,
+                "gameid": "8078b23c-737b-43ab-a096-9dcb6e21352d",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 13,
+                "gameid": "c1476780-f2bc-4f48-b6cd-dd204640e17f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 13,
+                "gameid": "fced2b7b-c5b4-413a-a666-090751f8c1ed",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 13,
+                "gameid": "89afaa5a-8038-4737-a518-4094331170ae",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 13,
+                "gameid": "2eea1da1-c9bf-4785-a919-c6e6be4fe8d0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 13,
+                "gameid": "f242626f-38e4-40b2-a58b-87aa6464d754",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 13,
+                "gameid": "53139a02-b68f-4f5b-a824-7aa97699896f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 13,
+                "gameid": "9ab52d92-5154-4759-8d84-443405c11373",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 13,
+                "gameid": "71076c5d-7fc5-444a-9d65-942db6c9a62e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "eights",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 13,
+                "gameid": "6f0971d4-46a0-4f46-9256-47e061b7fb98",
+                "isPostseason": true
+            }
+        ]
+    ]
+}

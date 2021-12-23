@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Chapman Oxidation",
+                "team1Abbr": "MW",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "LIL",
+                "team3Name": "Kechi Beachtowels",
+                "team3Abbr": "DET",
+                "team4Name": "Galena Sammies",
+                "team4Abbr": "BB",
+                "patternName": "rainbow",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "e18ed7e1-fb7b-4f8d-818d-86c3cd24f74c",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Silver Lake Losers",
+                "team2Abbr": "VV",
+                "team3Name": "Cimmaron Goldeneyes",
+                "team3Abbr": "EA",
+                "team4Name": "Pratt Individualists",
+                "team4Abbr": "SFBS",
+                "patternName": "justyna",
+                "description": "Game 1, West League Championship Series",
+                "season": 15,
+                "gameid": "138ab601-eeaa-4af4-8282-5037ee156415",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "LIL",
+                "team2Name": "Chapman Oxidation",
+                "team2Abbr": "MW",
+                "team3Name": "Galena Sammies",
+                "team3Abbr": "BB",
+                "team4Name": "Kechi Beachtowels",
+                "team4Abbr": "DET",
+                "patternName": "orchard",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "ea13a7c2-6476-4acc-8854-7d014b44bdec",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Silver Lake Losers",
+                "team2Abbr": "VV",
+                "team3Name": "Cimmaron Goldeneyes",
+                "team3Abbr": "EA",
+                "team4Name": "Pratt Individualists",
+                "team4Abbr": "SFBS",
+                "patternName": "sunburst",
+                "description": "Game 2, West League Championship Series",
+                "season": 15,
+                "gameid": "f083c784-0b84-4e3e-bf91-9eb7f4c20be5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Kechi Beachtowels",
+                "team1Abbr": "DET",
+                "team2Name": "Galena Sammies",
+                "team2Abbr": "BB",
+                "team3Name": "Elwood Skulls",
+                "team3Abbr": "LIL",
+                "team4Name": "Chapman Oxidation",
+                "team4Abbr": "MW",
+                "patternName": "orchard",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "a7c25190-11c0-4477-980b-ef9d57563947",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Silver Lake Losers",
+                "team2Abbr": "VV",
+                "team3Name": "Marion Loosey Gooseys",
+                "team3Abbr": "LBFB",
+                "team4Name": "Pratt Individualists",
+                "team4Abbr": "SFBS",
+                "patternName": "multum",
+                "description": "Game 3, West League Championship Series",
+                "season": 15,
+                "gameid": "ea3e6cdf-0f2a-4a3b-9c30-b879d761ee4d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Kechi Beachtowels",
+                "team1Abbr": "DET",
+                "team2Name": "Chapman Oxidation",
+                "team2Abbr": "MW",
+                "team3Name": "Elwood Skulls",
+                "team3Abbr": "LIL",
+                "team4Name": "Galena Sammies",
+                "team4Abbr": "BB",
+                "patternName": "timebomb",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "a4975d0a-884f-4784-89de-0634dd6a8464",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Pratt Individualists",
+                "team2Abbr": "SFBS",
+                "team3Name": "Cimmaron Goldeneyes",
+                "team3Abbr": "EA",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "patiolights",
+                "description": "Game 4, West League Championship Series",
+                "season": 15,
+                "gameid": "a266432d-c6a1-43db-b3cc-7ee271a095b3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "LIL",
+                "team2Name": "Chapman Oxidation",
+                "team2Abbr": "MW",
+                "team3Name": "Kechi Beachtowels",
+                "team3Abbr": "DET",
+                "team4Name": "Galena Sammies",
+                "team4Abbr": "BB",
+                "patternName": "rainbow",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "378ddfff-fda9-4806-b314-98e39792fa74",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Silver Lake Losers",
+                "team2Abbr": "VV",
+                "team3Name": "Pratt Individualists",
+                "team3Abbr": "SFBS",
+                "team4Name": "Cimmaron Goldeneyes",
+                "team4Abbr": "EA",
+                "patternName": "random",
+                "description": "Game 5, West League Championship Series",
+                "season": 15,
+                "gameid": "cfec07aa-854a-4e3d-8101-5a5ff951f308",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Kechi Beachtowels",
+                "team1Abbr": "DET",
+                "team2Name": "Chapman Oxidation",
+                "team2Abbr": "MW",
+                "team3Name": "Elwood Skulls",
+                "team3Abbr": "LIL",
+                "team4Name": "Galena Sammies",
+                "team4Abbr": "BB",
+                "patternName": "eights",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "10298669-e4b8-4637-a938-fa0a37b00547",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Silver Lake Losers",
+                "team2Abbr": "VV",
+                "team3Name": "Marion Loosey Gooseys",
+                "team3Abbr": "LBFB",
+                "team4Name": "Pratt Individualists",
+                "team4Abbr": "SFBS",
+                "patternName": "eights",
+                "description": "Game 6, West League Championship Series",
+                "season": 15,
+                "gameid": "7ee46e3c-f222-4521-8c39-b00561b39129",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Kechi Beachtowels",
+                "team1Abbr": "DET",
+                "team2Name": "Chapman Oxidation",
+                "team2Abbr": "MW",
+                "team3Name": "Elwood Skulls",
+                "team3Abbr": "LIL",
+                "team4Name": "Galena Sammies",
+                "team4Abbr": "BB",
+                "patternName": "crabs",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "dc37d3d5-73c6-4bf4-803a-ea876887804a",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Silver Lake Losers",
+                "team1Abbr": "VV",
+                "team2Name": "Pratt Individualists",
+                "team2Abbr": "SFBS",
+                "team3Name": "Cimmaron Goldeneyes",
+                "team3Abbr": "EA",
+                "team4Name": "Marion Loosey Gooseys",
+                "team4Abbr": "LBFB",
+                "patternName": "justyna",
+                "description": "Game 7, West League Championship Series",
+                "season": 15,
+                "gameid": "496abb55-a152-41e1-8801-6b59162b8890",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Galena Sammies",
+                "team1Abbr": "BB",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Elwood Skulls",
+                "team3Abbr": "LIL",
+                "team4Name": "Chapman Oxidation",
+                "team4Abbr": "MW",
+                "patternName": "justyna",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "46a39bcf-6676-4a31-9d1e-30e59c4f0356",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Silver Lake Losers",
+                "team2Abbr": "VV",
+                "team3Name": "Pratt Individualists",
+                "team3Abbr": "SFBS",
+                "team4Name": "Marion Loosey Gooseys",
+                "team4Abbr": "LBFB",
+                "patternName": "rabbits",
+                "description": "Game 8, West League Championship Series",
+                "season": 15,
+                "gameid": "6d5df38b-ccd5-4b9b-9ec0-9e09aa4359a2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Galena Sammies",
+                "team1Abbr": "BB",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "LIL",
+                "team3Name": "Chapman Oxidation",
+                "team3Abbr": "MW",
+                "team4Name": "Kechi Beachtowels",
+                "team4Abbr": "DET",
+                "patternName": "multum",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 15,
+                "gameid": "41cc5b88-c31d-4692-a7cb-767cd0ef350a",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Marion Loosey Gooseys",
+                "team2Abbr": "LBFB",
+                "team3Name": "Pratt Individualists",
+                "team3Abbr": "SFBS",
+                "team4Name": "Silver Lake Losers",
+                "team4Abbr": "VV",
+                "patternName": "justyna",
+                "description": "Game 9, West League Championship Series",
+                "season": 15,
+                "gameid": "0c88a085-802b-4ffb-a3d9-9c414dbd685d",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "quadgaussian",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "279f7d16-d0e5-43c5-852d-699afe05319b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "quadgaussian",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "a3df9b5a-d35c-4bc3-a954-ac73bf247957",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "quadgaussian",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "edc93633-53d0-4e87-aca4-65f39d8d3698",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "quadgaussian",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "3694f616-52f9-41cb-96e0-a2c3f28b22fd",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "quadgaussian",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "e76f997f-dede-492a-97eb-029479d81548",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "quadgaussian",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "31ceaf58-4061-4444-8d1b-7050b891a788",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "quadgaussian",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "c2760a6e-c661-4d64-8568-cbf0cc7093f6",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "quadgaussian",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "51e0130a-fd4d-4aff-ad34-467a81b9d9df",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "quadgaussian",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 15,
+                "gameid": "1d9f8773-b82e-43eb-881b-d42059e589fa",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
