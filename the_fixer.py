@@ -48,11 +48,17 @@ def main():
 
     lcs_tup.sort(key = lambda x: (1000000-x[2], 1000000-x[3]))
 
-    if lcs_tup[0][0] in loser_abbrs:
+    if lcs_tup[0][0]in loser_abbrs or lcs_tup[1][0] in loser_abbrs:
 
-        choke_abbr = lcs_tup[0][0]
+        if lcs_tup[0][0] in loser_abbrs:
+            print(" + Rank: 1")
+            choke_abbr = lcs_tup[0][0]
+            print(f"Choke artists clinched a pennant: {choke_abbr}")
+        elif lcs_tup[1][0] in loser_abbrs:
+            print(" + Rank: 2")
+            choke_abbr = lcs_tup[1][0]
+            print(f"Choke artists clinched a pennant: {choke_abbr}")
 
-        print(f"Choke artists clinched a pennant: {choke_abbr}")
         print(f"Repairing {postseason_json_file}...")
 
         # Figure out who to swap the choke artist with
@@ -93,6 +99,12 @@ def main():
             json.dump(post, f, indent=4)
 
         print(f"Done repairing {postseason_json_file}.")
+
+    else:
+        print("False alarm??")
+        print("LCS outcomes, ranked:")
+        from pprint import pprint
+        pprint(lcs_tup)
 
 
 def filter_game_replace_abbrs(game, choke_abbr, swap_with_abbr, teams):
