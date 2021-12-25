@@ -202,6 +202,68 @@ for iseason in range(LAST_SEASON0 + 1):
             err = f"Error: series name {series_name} not found in game description {game['description']}"
             raise Exception(err)
 
+
+    # -----------
+    # check seed table
+
+    def repair_seed_table_order(season, seed, seedfile):
+        rainbow_values = [11, 7, 3, 0]
+        f_rainbows = lambda x: 11*x[0] + 7*x[1] + 3*x[2]
+        nteams = 4
+        last_day = season[-1]
+
+        new_seed = {}
+        for league in seed:
+
+            rainbows = {}
+            points = {}
+            # accumulate points and rainbows from last game
+            for game in last_day:
+
+                if game['league'] != league:
+                    continue
+
+                for i in range(nteams):
+
+                    name_key = f"team{i+1}Name"
+                    name_val = game[name_key]
+
+                    w23l_key = f"team{i+1}W23L"
+                    w23l_val = game[w23l_key]
+
+                    rank_key = f"team{i+1}Rank"
+                    rank_val = game[rank_key]
+
+                    tp_key = f"team{i+1}TotalPoints"
+                    tp_val = game[tp_key]
+
+                    score_key = f"team{i+1}Score"
+                    score_val = game[score_key]
+
+                    nrainbows = f_rainbows(w23l_val)
+                    nrainbows += rainbow_values[rank_val]
+
+                    rainbows[name_val] = nrainbows
+
+                    npoints = tp_val
+                    npoints += score_val
+
+                    points[name_val] = npoints
+
+            tups = []
+            for team in points.keys():
+                tups.append((team, rainbows[team], points[team]))
+            tups.sort(key = lambda x: (100000-x[1], 100000-x[2]))
+
+            new_seed_table = []
+            for i in range(4):
+                new_seed_table.append(tups[i][0])
+            new_seed[league] = new_seed_table
+        
+        # Repair the seed table
+        with open(seedfile, 'w') as f:
+            json.dump(new_seed, f, indent=4)
+
     # -----------
     # schedule
 
@@ -372,6 +434,10 @@ for iseason in range(LAST_SEASON0 + 1):
         err += f"seed.json team names: {', '.join(seed_team_names)}\n"
         err += f"teams.json team names: {', '.join(teams_team_names)}\n"
         raise Exception(err)
+
+    # Check that seed table is in the correct order
+    # (Most rainbows, then most runs as tiebreaker)
+    repair_seed_table_order(season, seed, seedfile)
 
     # -----------
     # bracket
