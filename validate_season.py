@@ -437,7 +437,11 @@ for iseason in range(LAST_SEASON0 + 1):
 
     # Check that seed table is in the correct order
     # (Most rainbows, then most runs as tiebreaker)
-    repair_seed_table_order(season, seed, seedfile)
+    #
+    # Only repair the seed table if iseason is > 15
+    # (everything before that has been repaired by hand)
+    if iseason > 15:
+        repair_seed_table_order(season, seed, seedfile)
 
     # -----------
     # bracket
