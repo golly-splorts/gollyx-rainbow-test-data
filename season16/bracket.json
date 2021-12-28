@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "LIL",
+                "team2Name": "Carbondale Footwork",
+                "team2Abbr": "OSHA",
+                "team3Name": "Dighton Surfers",
+                "team3Abbr": "BPT",
+                "team4Name": "Kechi Beachtowels",
+                "team4Abbr": "DET",
+                "patternName": "eights",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "d26099e4-9caa-407d-9487-166cedb4d413",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Lyons Waste Dumps",
+                "team1Abbr": "FF",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Marion Loosey Gooseys",
+                "team3Abbr": "LBFB",
+                "team4Name": "Salina Anchors",
+                "team4Abbr": "SAC",
+                "patternName": "rainbowmath",
+                "description": "Game 1, West League Championship Series",
+                "season": 16,
+                "gameid": "2c819f12-717a-4409-90e1-acd95cbd9c75",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Kechi Beachtowels",
+                "team1Abbr": "DET",
+                "team2Name": "Carbondale Footwork",
+                "team2Abbr": "OSHA",
+                "team3Name": "Elwood Skulls",
+                "team3Abbr": "LIL",
+                "team4Name": "Dighton Surfers",
+                "team4Abbr": "BPT",
+                "patternName": "patiolights",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "e31daa87-46fe-4112-9720-7bb42071116f",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Lyons Waste Dumps",
+                "team1Abbr": "FF",
+                "team2Name": "Salina Anchors",
+                "team2Abbr": "SAC",
+                "team3Name": "Shawnee Flagellators",
+                "team3Abbr": "ABQ",
+                "team4Name": "Marion Loosey Gooseys",
+                "team4Abbr": "LBFB",
+                "patternName": "quadgaussian",
+                "description": "Game 2, West League Championship Series",
+                "season": 16,
+                "gameid": "52b23df9-92d7-4981-a674-01c0482a1814",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Dighton Surfers",
+                "team1Abbr": "BPT",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Elwood Skulls",
+                "team3Abbr": "LIL",
+                "team4Name": "Carbondale Footwork",
+                "team4Abbr": "OSHA",
+                "patternName": "rainbow",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "5c94720f-7ea7-49bf-83a6-567bbeb8f9e4",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Lyons Waste Dumps",
+                "team1Abbr": "FF",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Marion Loosey Gooseys",
+                "team3Abbr": "LBFB",
+                "team4Name": "Salina Anchors",
+                "team4Abbr": "SAC",
+                "patternName": "rabbits",
+                "description": "Game 3, West League Championship Series",
+                "season": 16,
+                "gameid": "f06bc096-9d60-4095-8864-9b390fcf57eb",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Dighton Surfers",
+                "team1Abbr": "BPT",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Carbondale Footwork",
+                "team3Abbr": "OSHA",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "LIL",
+                "patternName": "orchard",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "d77ce23f-aa52-402a-8bb9-51cc804f7014",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Marion Loosey Gooseys",
+                "team2Abbr": "LBFB",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Lyons Waste Dumps",
+                "team4Abbr": "FF",
+                "patternName": "rainbowmath",
+                "description": "Game 4, West League Championship Series",
+                "season": 16,
+                "gameid": "6346639d-a663-44d0-987a-b22d18373753",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "LIL",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Carbondale Footwork",
+                "team3Abbr": "OSHA",
+                "team4Name": "Dighton Surfers",
+                "team4Abbr": "BPT",
+                "patternName": "sunburst",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "7ec85ee6-b698-4065-8696-df57e0153b01",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Shawnee Flagellators",
+                "team1Abbr": "ABQ",
+                "team2Name": "Salina Anchors",
+                "team2Abbr": "SAC",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Marion Loosey Gooseys",
+                "team4Abbr": "LBFB",
+                "patternName": "eights",
+                "description": "Game 5, West League Championship Series",
+                "season": 16,
+                "gameid": "53fee136-889e-4576-a2e8-2eb964af4fcd",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Dighton Surfers",
+                "team1Abbr": "BPT",
+                "team2Name": "Kechi Beachtowels",
+                "team2Abbr": "DET",
+                "team3Name": "Carbondale Footwork",
+                "team3Abbr": "OSHA",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "LIL",
+                "patternName": "multum",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "ea9a6351-3cb0-429e-a5e5-689ee1123dc7",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Salina Anchors",
+                "team1Abbr": "SAC",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Marion Loosey Gooseys",
+                "team3Abbr": "LBFB",
+                "team4Name": "Lyons Waste Dumps",
+                "team4Abbr": "FF",
+                "patternName": "eights",
+                "description": "Game 6, West League Championship Series",
+                "season": 16,
+                "gameid": "720786fa-ff0a-404a-bd84-aa32549e4558",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "LIL",
+                "team2Name": "Carbondale Footwork",
+                "team2Abbr": "OSHA",
+                "team3Name": "Kechi Beachtowels",
+                "team3Abbr": "DET",
+                "team4Name": "Dighton Surfers",
+                "team4Abbr": "BPT",
+                "patternName": "quadgaussian",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "c3a7b0b6-8770-4cfb-bdc1-a1c019549d89",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Lyons Waste Dumps",
+                "team2Abbr": "FF",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Shawnee Flagellators",
+                "team4Abbr": "ABQ",
+                "patternName": "rainbowmath",
+                "description": "Game 7, West League Championship Series",
+                "season": 16,
+                "gameid": "69c1330c-f8b7-4d3e-8b50-08b1ddfe24ff",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "LIL",
+                "team2Name": "Carbondale Footwork",
+                "team2Abbr": "OSHA",
+                "team3Name": "Dighton Surfers",
+                "team3Abbr": "BPT",
+                "team4Name": "Kechi Beachtowels",
+                "team4Abbr": "DET",
+                "patternName": "rabbits",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "f2626730-02a9-4a6b-b878-4c975e8296ad",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Shawnee Flagellators",
+                "team2Abbr": "ABQ",
+                "team3Name": "Salina Anchors",
+                "team3Abbr": "SAC",
+                "team4Name": "Lyons Waste Dumps",
+                "team4Abbr": "FF",
+                "patternName": "rabbits",
+                "description": "Game 8, West League Championship Series",
+                "season": 16,
+                "gameid": "0dcf94b6-99fb-4a2e-b0a0-37d56419e25d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Carbondale Footwork",
+                "team1Abbr": "OSHA",
+                "team2Name": "Dighton Surfers",
+                "team2Abbr": "BPT",
+                "team3Name": "Kechi Beachtowels",
+                "team3Abbr": "DET",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "LIL",
+                "patternName": "eights",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 16,
+                "gameid": "b0331fa8-54d6-4aa9-bdc4-34e96302552b",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Lyons Waste Dumps",
+                "team1Abbr": "FF",
+                "team2Name": "Salina Anchors",
+                "team2Abbr": "SAC",
+                "team3Name": "Marion Loosey Gooseys",
+                "team3Abbr": "LBFB",
+                "team4Name": "Shawnee Flagellators",
+                "team4Abbr": "ABQ",
+                "patternName": "eights",
+                "description": "Game 9, West League Championship Series",
+                "season": 16,
+                "gameid": "131c32b6-7f07-416d-91da-23bcd7812899",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "patiolights",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "b151401d-9160-4ed8-a821-e725b2fd3380",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "patiolights",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "ab295d2b-0773-47a3-b9a5-eaf50b88ca2d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "patiolights",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "2f093bcd-c84d-4a15-9902-47ae8078f592",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "patiolights",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "742675f0-69d3-4733-8c2b-29bdd1c4fcee",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "patiolights",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "50e61238-6ae5-4312-8cfe-688ac4b92839",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "patiolights",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "d801e4f9-e373-47e3-8686-40b2e5058e59",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "patiolights",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "2c1962fe-3c31-40fd-a893-f1adb2daaeb6",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "patiolights",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "582f468a-cc8d-4dfc-ba9a-bb4dba762b95",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "patiolights",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 16,
+                "gameid": "0b98592e-6269-46f9-a2ce-f8a6dfcd3df4",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
