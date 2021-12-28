@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Galena Sammies",
+                "team1Abbr": "BB",
+                "team2Name": "Sabetha Seasides",
+                "team2Abbr": "MILF",
+                "team3Name": "Smith Center Slugs",
+                "team3Abbr": "ORL",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "LIL",
+                "patternName": "random",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "ee50a202-a4ef-445d-b6ea-d05803bcb4bc",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Lyons Waste Dumps",
+                "team4Abbr": "FF",
+                "patternName": "orchard",
+                "description": "Game 1, West League Championship Series",
+                "season": 17,
+                "gameid": "621d6f77-6c9c-4f06-a0e8-69c725c93816",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "LIL",
+                "team2Name": "Galena Sammies",
+                "team2Abbr": "BB",
+                "team3Name": "Smith Center Slugs",
+                "team3Abbr": "ORL",
+                "team4Name": "Sabetha Seasides",
+                "team4Abbr": "MILF",
+                "patternName": "random",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "5b8cb8ba-4571-4f95-88d6-1e2288b47c5c",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Osborne Tangerines",
+                "team2Abbr": "GJC",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Larned Spellguds",
+                "team4Abbr": "SS",
+                "patternName": "rabbits",
+                "description": "Game 2, West League Championship Series",
+                "season": 17,
+                "gameid": "3ccb7edc-fa85-42ac-945a-d2d8b5a45593",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sabetha Seasides",
+                "team1Abbr": "MILF",
+                "team2Name": "Smith Center Slugs",
+                "team2Abbr": "ORL",
+                "team3Name": "Galena Sammies",
+                "team3Abbr": "BB",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "LIL",
+                "patternName": "randommethuselahs",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "c3d07fcd-0987-48bc-a19b-fe28eeea8fce",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Osborne Tangerines",
+                "team1Abbr": "GJC",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Cimmaron Goldeneyes",
+                "team4Abbr": "EA",
+                "patternName": "timebombredux",
+                "description": "Game 3, West League Championship Series",
+                "season": 17,
+                "gameid": "e941a29f-5b0d-4119-bdb7-35eb6389e05b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Galena Sammies",
+                "team1Abbr": "BB",
+                "team2Name": "Sabetha Seasides",
+                "team2Abbr": "MILF",
+                "team3Name": "Elwood Skulls",
+                "team3Abbr": "LIL",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "justyna",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "6610cd40-dab4-4599-a501-e0307ba327ad",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Osborne Tangerines",
+                "team1Abbr": "GJC",
+                "team2Name": "Lyons Waste Dumps",
+                "team2Abbr": "FF",
+                "team3Name": "Larned Spellguds",
+                "team3Abbr": "SS",
+                "team4Name": "Cimmaron Goldeneyes",
+                "team4Abbr": "EA",
+                "patternName": "crabs",
+                "description": "Game 4, West League Championship Series",
+                "season": 17,
+                "gameid": "5ae6851b-ec93-474f-90da-c813dc97c2ea",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sabetha Seasides",
+                "team1Abbr": "MILF",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "LIL",
+                "team3Name": "Smith Center Slugs",
+                "team3Abbr": "ORL",
+                "team4Name": "Galena Sammies",
+                "team4Abbr": "BB",
+                "patternName": "multum",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "fb2e71c9-b19d-454d-b929-db692b748b5c",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Osborne Tangerines",
+                "team4Abbr": "GJC",
+                "patternName": "crabs",
+                "description": "Game 5, West League Championship Series",
+                "season": 17,
+                "gameid": "75b1c96b-7a0b-4493-99bf-91044b05a4f1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Galena Sammies",
+                "team1Abbr": "BB",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "LIL",
+                "team3Name": "Sabetha Seasides",
+                "team3Abbr": "MILF",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "orchard",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "c0962360-9c48-4b73-ba0d-d8a06262b257",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Larned Spellguds",
+                "team1Abbr": "SS",
+                "team2Name": "Osborne Tangerines",
+                "team2Abbr": "GJC",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Cimmaron Goldeneyes",
+                "team4Abbr": "EA",
+                "patternName": "crabs",
+                "description": "Game 6, West League Championship Series",
+                "season": 17,
+                "gameid": "ae057ba1-3e90-4ee9-95ce-18809a1c4f25",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Galena Sammies",
+                "team1Abbr": "BB",
+                "team2Name": "Sabetha Seasides",
+                "team2Abbr": "MILF",
+                "team3Name": "Elwood Skulls",
+                "team3Abbr": "LIL",
+                "team4Name": "Smith Center Slugs",
+                "team4Abbr": "ORL",
+                "patternName": "crabs",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "a86d2147-bc1c-4262-b0a5-c8c1803b5db0",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Cimmaron Goldeneyes",
+                "team1Abbr": "EA",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Osborne Tangerines",
+                "team4Abbr": "GJC",
+                "patternName": "crabs",
+                "description": "Game 7, West League Championship Series",
+                "season": 17,
+                "gameid": "4dbd2fe6-4727-4a2b-9a73-18de64593743",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Galena Sammies",
+                "team1Abbr": "BB",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "LIL",
+                "team3Name": "Smith Center Slugs",
+                "team3Abbr": "ORL",
+                "team4Name": "Sabetha Seasides",
+                "team4Abbr": "MILF",
+                "patternName": "randommethuselahs",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "7cd1599e-3952-48bf-88ec-c799f6a0786b",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Larned Spellguds",
+                "team1Abbr": "SS",
+                "team2Name": "Cimmaron Goldeneyes",
+                "team2Abbr": "EA",
+                "team3Name": "Osborne Tangerines",
+                "team3Abbr": "GJC",
+                "team4Name": "Lyons Waste Dumps",
+                "team4Abbr": "FF",
+                "patternName": "multum",
+                "description": "Game 8, West League Championship Series",
+                "season": 17,
+                "gameid": "3e8e8a2c-a5e6-4906-a855-2b919d458f65",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Smith Center Slugs",
+                "team1Abbr": "ORL",
+                "team2Name": "Sabetha Seasides",
+                "team2Abbr": "MILF",
+                "team3Name": "Galena Sammies",
+                "team3Abbr": "BB",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "LIL",
+                "patternName": "orchard",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 17,
+                "gameid": "a9be0f43-43eb-4977-ace2-80d539bff20b",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Larned Spellguds",
+                "team1Abbr": "SS",
+                "team2Name": "Osborne Tangerines",
+                "team2Abbr": "GJC",
+                "team3Name": "Lyons Waste Dumps",
+                "team3Abbr": "FF",
+                "team4Name": "Cimmaron Goldeneyes",
+                "team4Abbr": "EA",
+                "patternName": "eights",
+                "description": "Game 9, West League Championship Series",
+                "season": 17,
+                "gameid": "452708c8-a995-4065-9dfc-0249771d4eae",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "c25ea486-824f-449c-88d3-71da9f5808df",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "b52de675-4656-4c91-9deb-c7f68a87e207",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "3c8a262d-eb8a-470a-8c09-3b58464bf147",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "fee4dc6f-32e3-4f7b-a835-8d5b6d85a350",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "37a3446b-abde-48f9-bc39-f0866223de07",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "b785cc6d-344f-4d90-92ce-b59390937957",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "f2403ed6-3fd3-4765-9722-499b8093da58",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 2",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "fec5eeea-dd03-456e-b5a3-9e8ffcd55c84",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "rainbowmath",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 17,
+                "gameid": "e4e3bb11-4ebf-4e49-9297-70d21f5b2209",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
