@@ -2,7 +2,7 @@ import os
 import json
 
 
-LAST_SEASON0 = 15
+LAST_SEASON0 = 21
 
 SERIES_GPD = {"LCS": 2, "RCS": 1}
 
@@ -14,6 +14,9 @@ ABBR_TO_NAME = {
 
 for iseason in range(LAST_SEASON0 + 1):
     seasondir = "season%d" % (iseason)
+
+    if not os.path.exists(seasondir):
+        raise Exception(f"Error: missing season directory {seasondir}")
 
     #####################
     # load team data
@@ -206,14 +209,68 @@ for iseason in range(LAST_SEASON0 + 1):
     # -----------
     # check seed table
 
+    def check_seed_table_order(season, seed, seedfile):
+        rainbow_values = [11, 7, 3, 0]
+        f_rainbows = lambda x: 11*x[0] + 7*x[1] + 3*x[2]
+        nteams = 4
+        last_day = season[-1]
+        for league in seed:
+            seed_table = seed[league]
+
+            rainbows = {}
+            points = {}
+            # accumulate points and rainbows from last game
+            for game in last_day:
+
+                if game['league'] != league:
+                    continue
+
+                for i in range(nteams):
+
+                    name_key = f"team{i+1}Name"
+                    name_val = game[name_key]
+
+                    w23l_key = f"team{i+1}W23L"
+                    w23l_val = game[w23l_key]
+
+                    rank_key = f"team{i+1}Rank"
+                    rank_val = game[rank_key]
+
+                    tp_key = f"team{i+1}TotalPoints"
+                    tp_val = game[tp_key]
+
+                    score_key = f"team{i+1}Score"
+                    score_val = game[score_key]
+
+                    nrainbows = f_rainbows(w23l_val)
+                    nrainbows += rainbow_values[rank_val]
+
+                    rainbows[name_val] = nrainbows
+
+                    npoints = tp_val
+                    npoints += score_val
+
+                    points[name_val] = npoints
+
+            for i in range(1, len(seed_table)):
+                seed_abbr_k = seed_table[i-1]
+                r_k = rainbows[seed_abbr_k]
+                seed_abbr_kp1 = seed_table[i]
+                r_kp1 = rainbows[seed_abbr_kp1]
+                if r_kp1 > r_k:
+                    err = f"Seed table is out of order! "
+                    err += f"Number of rainbows of {seed_abbr_k} ({r_k}, seed {i}) is larger than "
+                    err += f"rainbows of {seed_abbr_kp1} ({r_kp1}, seed {i+1})."
+                    raise Exception(err)
+
     def repair_seed_table_order(season, seed, seedfile):
         rainbow_values = [11, 7, 3, 0]
         f_rainbows = lambda x: 11*x[0] + 7*x[1] + 3*x[2]
         nteams = 4
         last_day = season[-1]
-
         new_seed = {}
         for league in seed:
+            seed_table = seed[league]
 
             rainbows = {}
             points = {}
@@ -251,15 +308,15 @@ for iseason in range(LAST_SEASON0 + 1):
                     points[name_val] = npoints
 
             tups = []
-            for team in points.keys():
+            for team in seed_table:
                 tups.append((team, rainbows[team], points[team]))
             tups.sort(key = lambda x: (100000-x[1], 100000-x[2]))
 
             new_seed_table = []
-            for i in range(4):
-                new_seed_table.append(tups[i][0])
+            for tup in tups:
+                new_seed_table.append(tup[0])
             new_seed[league] = new_seed_table
-        
+
         # Repair the seed table
         with open(seedfile, 'w') as f:
             json.dump(new_seed, f, indent=4)
@@ -403,11 +460,20 @@ for iseason in range(LAST_SEASON0 + 1):
     # seed
     seedfile = os.path.join(seasondir, "seed.json")
 
-    print("***************************")
-    print(f"Now checking {seedfile}")
-
     if not os.path.exists(seedfile):
         raise Exception(f"Error: missing file: {seedfile}")
+
+    if iseason >= 0:
+    #if False:
+        print("***************************")
+        print(f"Now repairing {seedfile}")
+
+        with open(seedfile, "r") as f:
+            seed_ = json.load(f)
+        repair_seed_table_order(season, seed_, seedfile)
+
+    print("***************************")
+    print(f"Now checking {seedfile}")
 
     with open(seedfile, "r") as f:
         seed = json.load(f)
@@ -437,7 +503,7 @@ for iseason in range(LAST_SEASON0 + 1):
 
     # Check that seed table is in the correct order
     # (Most rainbows, then most runs as tiebreaker)
-    repair_seed_table_order(season, seed, seedfile)
+    check_seed_table_order(season, seed, seedfile)
 
     # -----------
     # bracket
@@ -588,8 +654,6 @@ for iseason in range(LAST_SEASON0 + 1):
             print("@"*40)
             print("")
             print("")
-
-
 
 
 
