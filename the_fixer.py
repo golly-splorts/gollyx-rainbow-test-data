@@ -28,8 +28,6 @@ def fix_season(which_season0):
     with open(teams_json_file, 'r') as f:
         teams = json.load(f)
 
-    new_postseason_json_file = os.path.join(f'season{which_season0}', 'new_postseason.json')
-
     rainbow_values = [11, 7, 3, 0]
 
     # Start by getting sorted tuples (team, rainbows, points)
