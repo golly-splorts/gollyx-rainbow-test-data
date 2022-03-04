@@ -3,27 +3,32 @@ import os
 import copy
 
 
-WHICH_SEASON0 = 11
-
-
 def main():
+    for which in [18]:
+        fix_season(which)
+
+
+def fix_season(which_season0):
+
+    print(f"\nthe_fixer is now checking {which_season0}...")
+
     nteams = 4
 
     loser_abbrs = ['BPT', 'DET']
 
-    postseason_json_file = os.path.join(f'season{WHICH_SEASON0}', 'postseason.json')
+    postseason_json_file = os.path.join(f'season{which_season0}', 'postseason.json')
     if not os.path.exists(postseason_json_file):
         raise Exception(f"Error: could not find json file: {postseason_json_file}")
     with open(postseason_json_file, 'r') as f:
         post = json.load(f)
 
-    teams_json_file = os.path.join(f'season{WHICH_SEASON0}', 'teams.json')
+    teams_json_file = os.path.join(f'season{which_season0}', 'teams.json')
     if not os.path.exists(teams_json_file):
         raise Exception(f"Error: could not find json file: {teams_json_file}")
     with open(teams_json_file, 'r') as f:
         teams = json.load(f)
 
-    new_postseason_json_file = os.path.join(f'season{WHICH_SEASON0}', 'new_postseason.json')
+    rainbow_values = [11, 7, 3, 0]
 
     # Start by getting sorted tuples (team, rainbows, points)
     lcs_tup = []
@@ -44,11 +49,21 @@ def main():
                 tp_key = f"team{i+1}SeriesTotalPoints"
                 tp_val = game[tp_key]
 
+                # update with outcome of last game
+
+                rank_key = f"team{i+1}Rank"
+                rank_val = game[rank_key]
+                nrainbows += rainbow_values[rank_val]
+
+                score_key = f"team{i+1}Score"
+                score_val = game[score_key]
+                tp_val += score_val
+
                 lcs_tup.append((abbr_val, name_val, nrainbows, tp_val))
 
     lcs_tup.sort(key = lambda x: (1000000-x[2], 1000000-x[3]))
 
-    if lcs_tup[0][0]in loser_abbrs or lcs_tup[1][0] in loser_abbrs:
+    if lcs_tup[0][0] in loser_abbrs or lcs_tup[1][0] in loser_abbrs:
 
         if lcs_tup[0][0] in loser_abbrs:
             print(" + Rank: 1")
