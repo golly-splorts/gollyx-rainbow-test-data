@@ -1,0 +1,465 @@
+{
+    "LCS": [
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "LIL",
+                "team2Name": "Sabetha Seasides",
+                "team2Abbr": "MILF",
+                "team3Name": "Chapman Oxidation",
+                "team3Abbr": "MW",
+                "team4Name": "Oakley Posterchildren",
+                "team4Abbr": "DECO",
+                "patternName": "patiolights",
+                "description": "Game 1, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "06705604-31c1-4e96-8732-4e69f2a6f2ea",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Osborne Tangerines",
+                "team1Abbr": "GJC",
+                "team2Name": "Tonganoxie Bootyshakers",
+                "team2Abbr": "SLC",
+                "team3Name": "Larned Spellguds",
+                "team3Abbr": "SS",
+                "team4Name": "Marion Loosey Gooseys",
+                "team4Abbr": "LBFB",
+                "patternName": "rabbits",
+                "description": "Game 1, West League Championship Series",
+                "season": 21,
+                "gameid": "0416167f-7ed9-4758-ac4e-fc10fd9209de",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sabetha Seasides",
+                "team1Abbr": "MILF",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "LIL",
+                "team3Name": "Oakley Posterchildren",
+                "team3Abbr": "DECO",
+                "team4Name": "Chapman Oxidation",
+                "team4Abbr": "MW",
+                "patternName": "random",
+                "description": "Game 2, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "a87d565c-34d5-4fac-b7c6-7b95b408efb8",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Osborne Tangerines",
+                "team1Abbr": "GJC",
+                "team2Name": "Marion Loosey Gooseys",
+                "team2Abbr": "LBFB",
+                "team3Name": "Tonganoxie Bootyshakers",
+                "team3Abbr": "SLC",
+                "team4Name": "Larned Spellguds",
+                "team4Abbr": "SS",
+                "patternName": "multum",
+                "description": "Game 2, West League Championship Series",
+                "season": 21,
+                "gameid": "7241db62-a916-402e-8944-3b93eea3f7b4",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sabetha Seasides",
+                "team1Abbr": "MILF",
+                "team2Name": "Chapman Oxidation",
+                "team2Abbr": "MW",
+                "team3Name": "Oakley Posterchildren",
+                "team3Abbr": "DECO",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "LIL",
+                "patternName": "patiolights",
+                "description": "Game 3, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "5de8aff9-6606-4e71-a72d-a51dc6d8df1c",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Osborne Tangerines",
+                "team2Abbr": "GJC",
+                "team3Name": "Larned Spellguds",
+                "team3Abbr": "SS",
+                "team4Name": "Tonganoxie Bootyshakers",
+                "team4Abbr": "SLC",
+                "patternName": "sunburst",
+                "description": "Game 3, West League Championship Series",
+                "season": 21,
+                "gameid": "a45a82aa-8255-4b30-81a5-84b3614c0e40",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Chapman Oxidation",
+                "team1Abbr": "MW",
+                "team2Name": "Sabetha Seasides",
+                "team2Abbr": "MILF",
+                "team3Name": "Oakley Posterchildren",
+                "team3Abbr": "DECO",
+                "team4Name": "Elwood Skulls",
+                "team4Abbr": "LIL",
+                "patternName": "timebomb",
+                "description": "Game 4, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "5c8a9396-556f-48ea-9989-e784914169ed",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Larned Spellguds",
+                "team1Abbr": "SS",
+                "team2Name": "Tonganoxie Bootyshakers",
+                "team2Abbr": "SLC",
+                "team3Name": "Marion Loosey Gooseys",
+                "team3Abbr": "LBFB",
+                "team4Name": "Osborne Tangerines",
+                "team4Abbr": "GJC",
+                "patternName": "patiolights",
+                "description": "Game 4, West League Championship Series",
+                "season": 21,
+                "gameid": "197258c3-8f8c-4965-86d0-6de008f2ee26",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sabetha Seasides",
+                "team1Abbr": "MILF",
+                "team2Name": "Oakley Posterchildren",
+                "team2Abbr": "DECO",
+                "team3Name": "Elwood Skulls",
+                "team3Abbr": "LIL",
+                "team4Name": "Chapman Oxidation",
+                "team4Abbr": "MW",
+                "patternName": "rainbow",
+                "description": "Game 5, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "d00c0378-1627-4ee9-ad2e-2a5c1d4d7db1",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Tonganoxie Bootyshakers",
+                "team1Abbr": "SLC",
+                "team2Name": "Osborne Tangerines",
+                "team2Abbr": "GJC",
+                "team3Name": "Marion Loosey Gooseys",
+                "team3Abbr": "LBFB",
+                "team4Name": "Larned Spellguds",
+                "team4Abbr": "SS",
+                "patternName": "random",
+                "description": "Game 5, West League Championship Series",
+                "season": 21,
+                "gameid": "fa08d4e8-de98-487f-aa6b-203f018d2e94",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "LIL",
+                "team2Name": "Oakley Posterchildren",
+                "team2Abbr": "DECO",
+                "team3Name": "Sabetha Seasides",
+                "team3Abbr": "MILF",
+                "team4Name": "Chapman Oxidation",
+                "team4Abbr": "MW",
+                "patternName": "quadgaussian",
+                "description": "Game 6, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "d71a2945-c6cd-4ed3-9102-31e72b9a0008",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Osborne Tangerines",
+                "team1Abbr": "GJC",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Marion Loosey Gooseys",
+                "team3Abbr": "LBFB",
+                "team4Name": "Tonganoxie Bootyshakers",
+                "team4Abbr": "SLC",
+                "patternName": "rainbowmath",
+                "description": "Game 6, West League Championship Series",
+                "season": 21,
+                "gameid": "352edf9d-5003-46c0-b7a7-2af88b519dfe",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Elwood Skulls",
+                "team1Abbr": "LIL",
+                "team2Name": "Sabetha Seasides",
+                "team2Abbr": "MILF",
+                "team3Name": "Oakley Posterchildren",
+                "team3Abbr": "DECO",
+                "team4Name": "Chapman Oxidation",
+                "team4Abbr": "MW",
+                "patternName": "eights",
+                "description": "Game 7, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "78b2a91e-4e57-4305-bbef-e12aefcfe13e",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Tonganoxie Bootyshakers",
+                "team1Abbr": "SLC",
+                "team2Name": "Osborne Tangerines",
+                "team2Abbr": "GJC",
+                "team3Name": "Larned Spellguds",
+                "team3Abbr": "SS",
+                "team4Name": "Marion Loosey Gooseys",
+                "team4Abbr": "LBFB",
+                "patternName": "crabs",
+                "description": "Game 7, West League Championship Series",
+                "season": 21,
+                "gameid": "9fe17fad-9ac8-488f-af0f-bc6f90bcf04b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Chapman Oxidation",
+                "team1Abbr": "MW",
+                "team2Name": "Elwood Skulls",
+                "team2Abbr": "LIL",
+                "team3Name": "Oakley Posterchildren",
+                "team3Abbr": "DECO",
+                "team4Name": "Sabetha Seasides",
+                "team4Abbr": "MILF",
+                "patternName": "random",
+                "description": "Game 8, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "e0054a38-6dfc-465a-a4ec-1eaf798201bb",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Tonganoxie Bootyshakers",
+                "team1Abbr": "SLC",
+                "team2Name": "Larned Spellguds",
+                "team2Abbr": "SS",
+                "team3Name": "Marion Loosey Gooseys",
+                "team3Abbr": "LBFB",
+                "team4Name": "Osborne Tangerines",
+                "team4Abbr": "GJC",
+                "patternName": "timebombredux",
+                "description": "Game 8, West League Championship Series",
+                "season": 21,
+                "gameid": "55723c00-d217-40a9-abef-0521aa40d23d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Unwest League",
+                "team1Name": "Sabetha Seasides",
+                "team1Abbr": "MILF",
+                "team2Name": "Oakley Posterchildren",
+                "team2Abbr": "DECO",
+                "team3Name": "Elwood Skulls",
+                "team3Abbr": "LIL",
+                "team4Name": "Chapman Oxidation",
+                "team4Abbr": "MW",
+                "patternName": "crabs",
+                "description": "Game 9, Unwest League Championship Series",
+                "season": 21,
+                "gameid": "431debe4-1b1b-4d0f-af70-400bc9891401",
+                "isPostseason": true
+            },
+            {
+                "league": "West League",
+                "team1Name": "Marion Loosey Gooseys",
+                "team1Abbr": "LBFB",
+                "team2Name": "Osborne Tangerines",
+                "team2Abbr": "GJC",
+                "team3Name": "Tonganoxie Bootyshakers",
+                "team3Abbr": "SLC",
+                "team4Name": "Larned Spellguds",
+                "team4Abbr": "SS",
+                "patternName": "timebomb",
+                "description": "Game 9, West League Championship Series",
+                "season": 21,
+                "gameid": "f32dc76b-026f-4a0a-aa66-c80aaaaffe59",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "RCS": [
+        [
+            {
+                "team1Name": "Team 3",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 4",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 1, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "579f380c-cf36-4f92-8ee8-0e9457a85b42",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 3",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 2, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "10390451-b1dc-429a-b06b-de3c4dcaa02c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 1",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 3, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "6766db0a-a49a-4585-926d-b1b3ea4cb4ab",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 4, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "f0b2fa1a-a7d7-459e-8d83-8d03d6b617c9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 5, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "6322580d-3214-430c-bb19-5285f6a8be79",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 4",
+                "team1Abbr": "",
+                "team2Name": "Team 2",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 6, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "58a208b5-1c09-4275-a1e1-552fe0fb5ab9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 1",
+                "team2Abbr": "",
+                "team3Name": "Team 4",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 7, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "0e96aa63-60d3-4195-ab06-6498d09457db",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 2",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 3",
+                "team3Abbr": "",
+                "team4Name": "Team 1",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 8, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "5e951cfe-1214-4053-b913-44d5f3237323",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Team 1",
+                "team1Abbr": "",
+                "team2Name": "Team 4",
+                "team2Abbr": "",
+                "team3Name": "Team 2",
+                "team3Abbr": "",
+                "team4Name": "Team 3",
+                "team4Abbr": "",
+                "patternName": "multum",
+                "description": "Game 9, Rainbow Cup Series",
+                "season": 21,
+                "gameid": "0d7fe73b-1e55-4e8c-95fb-8838271903fd",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
