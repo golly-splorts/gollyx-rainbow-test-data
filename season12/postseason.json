@@ -13,7 +13,7 @@
                 "team4Abbr": "ORL",
                 "description": "Game 1, Unwest League Championship Series",
                 "season": 12,
-                "gameid": "28f5bd55-f51f-4347-a9c0-ca6f53b7999a",
+                "id": "28f5bd55-f51f-4347-a9c0-ca6f53b7999a",
                 "isPostseason": true,
                 "map": {
                     "patternName": "randommethuselahs",
@@ -85,7 +85,7 @@
                 "team4Abbr": "SAC",
                 "description": "Game 1, West League Championship Series",
                 "season": 12,
-                "gameid": "5a82eb4e-23c6-413a-8d8e-5fe53eeea565",
+                "id": "5a82eb4e-23c6-413a-8d8e-5fe53eeea565",
                 "isPostseason": true,
                 "map": {
                     "patternName": "rainbow",
@@ -159,7 +159,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 2, Unwest League Championship Series",
                 "season": 12,
-                "gameid": "b1be855f-feb5-4fa4-b4a8-fb244607f6b2",
+                "id": "b1be855f-feb5-4fa4-b4a8-fb244607f6b2",
                 "isPostseason": true,
                 "map": {
                     "patternName": "rainbow",
@@ -231,7 +231,7 @@
                 "team4Abbr": "EA",
                 "description": "Game 2, West League Championship Series",
                 "season": 12,
-                "gameid": "d7ec7e10-0462-49e6-9b87-c5df25dbfc82",
+                "id": "d7ec7e10-0462-49e6-9b87-c5df25dbfc82",
                 "isPostseason": true,
                 "map": {
                     "patternName": "random",
@@ -305,7 +305,7 @@
                 "team4Abbr": "MILF",
                 "description": "Game 3, Unwest League Championship Series",
                 "season": 12,
-                "gameid": "f56d6110-5a9b-497c-b60e-be8ba5af5058",
+                "id": "f56d6110-5a9b-497c-b60e-be8ba5af5058",
                 "isPostseason": true,
                 "map": {
                     "patternName": "rainbowmath",
@@ -377,7 +377,7 @@
                 "team4Abbr": "LBFB",
                 "description": "Game 3, West League Championship Series",
                 "season": 12,
-                "gameid": "156164a7-5714-40ec-bc05-b2f37ef45b6b",
+                "id": "156164a7-5714-40ec-bc05-b2f37ef45b6b",
                 "isPostseason": true,
                 "map": {
                     "patternName": "timebombredux",
@@ -451,7 +451,7 @@
                 "team4Abbr": "ORL",
                 "description": "Game 4, Unwest League Championship Series",
                 "season": 12,
-                "gameid": "a47171fa-4dd5-4b0f-ab70-d6bd39de22ee",
+                "id": "a47171fa-4dd5-4b0f-ab70-d6bd39de22ee",
                 "isPostseason": true,
                 "map": {
                     "patternName": "rainbow",
@@ -523,7 +523,7 @@
                 "team4Abbr": "LBFB",
                 "description": "Game 4, West League Championship Series",
                 "season": 12,
-                "gameid": "3b484431-ef83-4dad-9190-54215a76cbf7",
+                "id": "3b484431-ef83-4dad-9190-54215a76cbf7",
                 "isPostseason": true,
                 "map": {
                     "patternName": "crabs",
@@ -597,7 +597,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 5, Unwest League Championship Series",
                 "season": 12,
-                "gameid": "6d1f1e3a-999f-4cb7-8d7c-5275d1ccc446",
+                "id": "6d1f1e3a-999f-4cb7-8d7c-5275d1ccc446",
                 "isPostseason": true,
                 "map": {
                     "patternName": "orchard",
@@ -669,7 +669,7 @@
                 "team4Abbr": "EA",
                 "description": "Game 5, West League Championship Series",
                 "season": 12,
-                "gameid": "ddf04b46-5654-4764-8689-a1e884c550c0",
+                "id": "ddf04b46-5654-4764-8689-a1e884c550c0",
                 "isPostseason": true,
                 "map": {
                     "patternName": "orchard",
@@ -743,7 +743,7 @@
                 "team4Abbr": "MILF",
                 "description": "Game 6, Unwest League Championship Series",
                 "season": 12,
-                "gameid": "07c7db0a-9fa6-4875-a574-f05343b6a2b9",
+                "id": "07c7db0a-9fa6-4875-a574-f05343b6a2b9",
                 "isPostseason": true,
                 "map": {
                     "patternName": "timebombredux",
@@ -815,7 +815,7 @@
                 "team4Abbr": "SAC",
                 "description": "Game 6, West League Championship Series",
                 "season": 12,
-                "gameid": "b510bcfc-4bea-4c45-9cc2-9025dbe5a9db",
+                "id": "b510bcfc-4bea-4c45-9cc2-9025dbe5a9db",
                 "isPostseason": true,
                 "map": {
                     "patternName": "rainbowmath",
@@ -889,7 +889,7 @@
                 "team4Abbr": "ORL",
                 "description": "Game 7, Unwest League Championship Series",
                 "season": 12,
-                "gameid": "b16407c8-6079-4d22-9481-789b3a5088b0",
+                "id": "b16407c8-6079-4d22-9481-789b3a5088b0",
                 "isPostseason": true,
                 "map": {
                     "patternName": "crabs",
@@ -961,7 +961,7 @@
                 "team4Abbr": "LBFB",
                 "description": "Game 7, West League Championship Series",
                 "season": 12,
-                "gameid": "a746d4b9-b4ca-4f08-b9e5-fd1cccecb9ca",
+                "id": "a746d4b9-b4ca-4f08-b9e5-fd1cccecb9ca",
                 "isPostseason": true,
                 "map": {
                     "patternName": "timebombredux",
@@ -1035,7 +1035,7 @@
                 "team4Abbr": "MILF",
                 "description": "Game 8, Unwest League Championship Series",
                 "season": 12,
-                "gameid": "c380865a-2f76-4e33-8267-83bd1afe8e3c",
+                "id": "c380865a-2f76-4e33-8267-83bd1afe8e3c",
                 "isPostseason": true,
                 "map": {
                     "patternName": "patiolights",
@@ -1107,7 +1107,7 @@
                 "team4Abbr": "EA",
                 "description": "Game 8, West League Championship Series",
                 "season": 12,
-                "gameid": "dbac0754-38ca-4c43-8787-cb59850361b7",
+                "id": "dbac0754-38ca-4c43-8787-cb59850361b7",
                 "isPostseason": true,
                 "map": {
                     "patternName": "rabbits",
@@ -1181,7 +1181,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 9, Unwest League Championship Series",
                 "season": 12,
-                "gameid": "e4ff9894-2863-4265-ac5f-4356c601f4d8",
+                "id": "e4ff9894-2863-4265-ac5f-4356c601f4d8",
                 "isPostseason": true,
                 "map": {
                     "patternName": "multum",
@@ -1253,7 +1253,7 @@
                 "team4Abbr": "SAC",
                 "description": "Game 9, West League Championship Series",
                 "season": 12,
-                "gameid": "e3669b2a-50ca-4aa2-8089-329e117f1fc7",
+                "id": "e3669b2a-50ca-4aa2-8089-329e117f1fc7",
                 "isPostseason": true,
                 "map": {
                     "patternName": "justyna",
@@ -1328,7 +1328,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 1, Rainbow Cup Series",
                 "season": 12,
-                "gameid": "d5b57cc4-a8a5-49d3-9047-88b639bfe904",
+                "id": "d5b57cc4-a8a5-49d3-9047-88b639bfe904",
                 "isPostseason": true,
                 "map": {
                     "patternName": "crabs",
@@ -1401,7 +1401,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 2, Rainbow Cup Series",
                 "season": 12,
-                "gameid": "b74ff16a-c4d5-46e0-a7a9-0180354ca31f",
+                "id": "b74ff16a-c4d5-46e0-a7a9-0180354ca31f",
                 "isPostseason": true,
                 "map": {
                     "patternName": "crabs",
@@ -1474,7 +1474,7 @@
                 "team4Abbr": "SGE",
                 "description": "Game 3, Rainbow Cup Series",
                 "season": 12,
-                "gameid": "5019b2a9-2a96-45d2-9b3f-d7bb149fe1a8",
+                "id": "5019b2a9-2a96-45d2-9b3f-d7bb149fe1a8",
                 "isPostseason": true,
                 "map": {
                     "patternName": "crabs",
@@ -1547,7 +1547,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 4, Rainbow Cup Series",
                 "season": 12,
-                "gameid": "ca1e039f-bd45-41bb-bb06-8cde72b9d220",
+                "id": "ca1e039f-bd45-41bb-bb06-8cde72b9d220",
                 "isPostseason": true,
                 "map": {
                     "patternName": "crabs",
@@ -1620,7 +1620,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 5, Rainbow Cup Series",
                 "season": 12,
-                "gameid": "059852e5-eb2c-4133-b8f0-877468a866e6",
+                "id": "059852e5-eb2c-4133-b8f0-877468a866e6",
                 "isPostseason": true,
                 "map": {
                     "patternName": "crabs",
@@ -1693,7 +1693,7 @@
                 "team4Abbr": "SGE",
                 "description": "Game 6, Rainbow Cup Series",
                 "season": 12,
-                "gameid": "404776fc-5037-434d-82f4-c222ab0cbf48",
+                "id": "404776fc-5037-434d-82f4-c222ab0cbf48",
                 "isPostseason": true,
                 "map": {
                     "patternName": "crabs",
@@ -1766,7 +1766,7 @@
                 "team4Abbr": "SDBA",
                 "description": "Game 7, Rainbow Cup Series",
                 "season": 12,
-                "gameid": "4f298d5b-f89a-4bbf-98db-3534396506d9",
+                "id": "4f298d5b-f89a-4bbf-98db-3534396506d9",
                 "isPostseason": true,
                 "map": {
                     "patternName": "crabs",
@@ -1839,7 +1839,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 8, Rainbow Cup Series",
                 "season": 12,
-                "gameid": "a7399960-de80-4268-b26e-3caa89be1b3d",
+                "id": "a7399960-de80-4268-b26e-3caa89be1b3d",
                 "isPostseason": true,
                 "map": {
                     "patternName": "crabs",
@@ -1912,7 +1912,7 @@
                 "team4Abbr": "BB",
                 "description": "Game 9, Rainbow Cup Series",
                 "season": 12,
-                "gameid": "43f6a756-f706-4189-a8c4-0ecab2c18714",
+                "id": "43f6a756-f706-4189-a8c4-0ecab2c18714",
                 "isPostseason": true,
                 "map": {
                     "patternName": "crabs",

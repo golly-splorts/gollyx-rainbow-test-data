@@ -13,7 +13,7 @@
                 "team4Abbr": "OSHA",
                 "description": "Game 1, Unwest League Championship Series",
                 "season": 13,
-                "gameid": "1c8c1d1f-919f-4863-a33d-5fb1feaf567e",
+                "id": "1c8c1d1f-919f-4863-a33d-5fb1feaf567e",
                 "isPostseason": true,
                 "map": {
                     "patternName": "multum",
@@ -85,7 +85,7 @@
                 "team4Abbr": "VV",
                 "description": "Game 1, West League Championship Series",
                 "season": 13,
-                "gameid": "ae47d210-dcbd-463c-9cbc-b2f8c42c8200",
+                "id": "ae47d210-dcbd-463c-9cbc-b2f8c42c8200",
                 "isPostseason": true,
                 "map": {
                     "patternName": "orchard",
@@ -159,7 +159,7 @@
                 "team4Abbr": "DECO",
                 "description": "Game 2, Unwest League Championship Series",
                 "season": 13,
-                "gameid": "e3f7b9db-b79d-4053-8a6d-91051efe6bd0",
+                "id": "e3f7b9db-b79d-4053-8a6d-91051efe6bd0",
                 "isPostseason": true,
                 "map": {
                     "patternName": "timebombredux",
@@ -231,7 +231,7 @@
                 "team4Abbr": "LBFB",
                 "description": "Game 2, West League Championship Series",
                 "season": 13,
-                "gameid": "f6f819cc-02df-4039-b12c-5eb4b1f2fd03",
+                "id": "f6f819cc-02df-4039-b12c-5eb4b1f2fd03",
                 "isPostseason": true,
                 "map": {
                     "patternName": "orchard",
@@ -305,7 +305,7 @@
                 "team4Abbr": "DECO",
                 "description": "Game 3, Unwest League Championship Series",
                 "season": 13,
-                "gameid": "59f4e8cc-5064-4ad4-a5f7-f0473e370f83",
+                "id": "59f4e8cc-5064-4ad4-a5f7-f0473e370f83",
                 "isPostseason": true,
                 "map": {
                     "patternName": "sunburst",
@@ -377,7 +377,7 @@
                 "team4Abbr": "VV",
                 "description": "Game 3, West League Championship Series",
                 "season": 13,
-                "gameid": "b7141ade-1750-465f-80e0-76d1c3a310f5",
+                "id": "b7141ade-1750-465f-80e0-76d1c3a310f5",
                 "isPostseason": true,
                 "map": {
                     "patternName": "justyna",
@@ -451,7 +451,7 @@
                 "team4Abbr": "BPT",
                 "description": "Game 4, Unwest League Championship Series",
                 "season": 13,
-                "gameid": "cd77f3c9-ef90-4701-aa6c-3cfb83627b7f",
+                "id": "cd77f3c9-ef90-4701-aa6c-3cfb83627b7f",
                 "isPostseason": true,
                 "map": {
                     "patternName": "justyna",
@@ -523,7 +523,7 @@
                 "team4Abbr": "LBFB",
                 "description": "Game 4, West League Championship Series",
                 "season": 13,
-                "gameid": "e3fa517b-bb21-40eb-bb6a-131ea7d112a8",
+                "id": "e3fa517b-bb21-40eb-bb6a-131ea7d112a8",
                 "isPostseason": true,
                 "map": {
                     "patternName": "rainbow",
@@ -597,7 +597,7 @@
                 "team4Abbr": "SGE",
                 "description": "Game 5, Unwest League Championship Series",
                 "season": 13,
-                "gameid": "9d5d5ac8-7ec3-4a18-879f-d0cded4addca",
+                "id": "9d5d5ac8-7ec3-4a18-879f-d0cded4addca",
                 "isPostseason": true,
                 "map": {
                     "patternName": "orchard",
@@ -669,7 +669,7 @@
                 "team4Abbr": "LBFB",
                 "description": "Game 5, West League Championship Series",
                 "season": 13,
-                "gameid": "2fa9fd6d-099c-4299-acc7-556e1b944dd5",
+                "id": "2fa9fd6d-099c-4299-acc7-556e1b944dd5",
                 "isPostseason": true,
                 "map": {
                     "patternName": "multum",
@@ -743,7 +743,7 @@
                 "team4Abbr": "OSHA",
                 "description": "Game 6, Unwest League Championship Series",
                 "season": 13,
-                "gameid": "c0079eb9-94d6-419a-a39c-2ce7955746df",
+                "id": "c0079eb9-94d6-419a-a39c-2ce7955746df",
                 "isPostseason": true,
                 "map": {
                     "patternName": "crabs",
@@ -815,7 +815,7 @@
                 "team4Abbr": "ABQ",
                 "description": "Game 6, West League Championship Series",
                 "season": 13,
-                "gameid": "18e16b53-e460-42c2-86c7-ee467d302c81",
+                "id": "18e16b53-e460-42c2-86c7-ee467d302c81",
                 "isPostseason": true,
                 "map": {
                     "patternName": "orchard",
@@ -889,7 +889,7 @@
                 "team4Abbr": "OSHA",
                 "description": "Game 7, Unwest League Championship Series",
                 "season": 13,
-                "gameid": "b629790c-1e77-4b54-8250-ae76b4a67000",
+                "id": "b629790c-1e77-4b54-8250-ae76b4a67000",
                 "isPostseason": true,
                 "map": {
                     "patternName": "crabs",
@@ -961,7 +961,7 @@
                 "team4Abbr": "EA",
                 "description": "Game 7, West League Championship Series",
                 "season": 13,
-                "gameid": "c314a75c-9caa-4141-8d40-b3ec6c245ae6",
+                "id": "c314a75c-9caa-4141-8d40-b3ec6c245ae6",
                 "isPostseason": true,
                 "map": {
                     "patternName": "sunburst",
@@ -1035,7 +1035,7 @@
                 "team4Abbr": "DECO",
                 "description": "Game 8, Unwest League Championship Series",
                 "season": 13,
-                "gameid": "635b3c33-d801-463a-bc87-841d9159edc1",
+                "id": "635b3c33-d801-463a-bc87-841d9159edc1",
                 "isPostseason": true,
                 "map": {
                     "patternName": "random",
@@ -1107,7 +1107,7 @@
                 "team4Abbr": "LBFB",
                 "description": "Game 8, West League Championship Series",
                 "season": 13,
-                "gameid": "f1d0fa5d-aee8-41d2-bcc5-4f562ab4ca3d",
+                "id": "f1d0fa5d-aee8-41d2-bcc5-4f562ab4ca3d",
                 "isPostseason": true,
                 "map": {
                     "patternName": "rabbits",
@@ -1181,7 +1181,7 @@
                 "team4Abbr": "BPT",
                 "description": "Game 9, Unwest League Championship Series",
                 "season": 13,
-                "gameid": "26932a07-721a-44ea-845e-73d5a5abea4e",
+                "id": "26932a07-721a-44ea-845e-73d5a5abea4e",
                 "isPostseason": true,
                 "map": {
                     "patternName": "random",
@@ -1253,7 +1253,7 @@
                 "team4Abbr": "ABQ",
                 "description": "Game 9, West League Championship Series",
                 "season": 13,
-                "gameid": "8078b23c-737b-43ab-a096-9dcb6e21352d",
+                "id": "8078b23c-737b-43ab-a096-9dcb6e21352d",
                 "isPostseason": true,
                 "map": {
                     "patternName": "patiolights",
@@ -1328,7 +1328,7 @@
                 "team4Abbr": "SGE",
                 "description": "Game 1, Rainbow Cup Series",
                 "season": 13,
-                "gameid": "c1476780-f2bc-4f48-b6cd-dd204640e17f",
+                "id": "c1476780-f2bc-4f48-b6cd-dd204640e17f",
                 "isPostseason": true,
                 "map": {
                     "patternName": "eights",
@@ -1401,7 +1401,7 @@
                 "team4Abbr": "EA",
                 "description": "Game 2, Rainbow Cup Series",
                 "season": 13,
-                "gameid": "fced2b7b-c5b4-413a-a666-090751f8c1ed",
+                "id": "fced2b7b-c5b4-413a-a666-090751f8c1ed",
                 "isPostseason": true,
                 "map": {
                     "patternName": "eights",
@@ -1474,7 +1474,7 @@
                 "team4Abbr": "EA",
                 "description": "Game 3, Rainbow Cup Series",
                 "season": 13,
-                "gameid": "89afaa5a-8038-4737-a518-4094331170ae",
+                "id": "89afaa5a-8038-4737-a518-4094331170ae",
                 "isPostseason": true,
                 "map": {
                     "patternName": "eights",
@@ -1547,7 +1547,7 @@
                 "team4Abbr": "OSHA",
                 "description": "Game 4, Rainbow Cup Series",
                 "season": 13,
-                "gameid": "2eea1da1-c9bf-4785-a919-c6e6be4fe8d0",
+                "id": "2eea1da1-c9bf-4785-a919-c6e6be4fe8d0",
                 "isPostseason": true,
                 "map": {
                     "patternName": "eights",
@@ -1620,7 +1620,7 @@
                 "team4Abbr": "SGE",
                 "description": "Game 5, Rainbow Cup Series",
                 "season": 13,
-                "gameid": "f242626f-38e4-40b2-a58b-87aa6464d754",
+                "id": "f242626f-38e4-40b2-a58b-87aa6464d754",
                 "isPostseason": true,
                 "map": {
                     "patternName": "eights",
@@ -1693,7 +1693,7 @@
                 "team4Abbr": "ABQ",
                 "description": "Game 6, Rainbow Cup Series",
                 "season": 13,
-                "gameid": "53139a02-b68f-4f5b-a824-7aa97699896f",
+                "id": "53139a02-b68f-4f5b-a824-7aa97699896f",
                 "isPostseason": true,
                 "map": {
                     "patternName": "eights",
@@ -1766,7 +1766,7 @@
                 "team4Abbr": "OSHA",
                 "description": "Game 7, Rainbow Cup Series",
                 "season": 13,
-                "gameid": "9ab52d92-5154-4759-8d84-443405c11373",
+                "id": "9ab52d92-5154-4759-8d84-443405c11373",
                 "isPostseason": true,
                 "map": {
                     "patternName": "eights",
@@ -1839,7 +1839,7 @@
                 "team4Abbr": "EA",
                 "description": "Game 8, Rainbow Cup Series",
                 "season": 13,
-                "gameid": "71076c5d-7fc5-444a-9d65-942db6c9a62e",
+                "id": "71076c5d-7fc5-444a-9d65-942db6c9a62e",
                 "isPostseason": true,
                 "map": {
                     "patternName": "eights",
@@ -1912,7 +1912,7 @@
                 "team4Abbr": "OSHA",
                 "description": "Game 9, Rainbow Cup Series",
                 "season": 13,
-                "gameid": "6f0971d4-46a0-4f46-9256-47e061b7fb98",
+                "id": "6f0971d4-46a0-4f46-9256-47e061b7fb98",
                 "isPostseason": true,
                 "map": {
                     "patternName": "eights",
