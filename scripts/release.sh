@@ -5,11 +5,6 @@ set -x
 
 REMOTE="ghx"
 
-if [ -z "${GOLLYX_RAINBOW_TEST_DATA_HOME}" ]; then
-	echo 'You must set the $GOLLYX_RAINBOW_TEST_DATA_HOME environment variable to proceed.'
-	exit 1
-fi
-
 POSITIONAL=
 
 if [[ $# != 2 ]]; then
@@ -20,12 +15,12 @@ if [[ $# != 2 ]]; then
 	echo " - push result to git repo"
     echo
     echo "Usage: $(basename $0) source_branch dest_branch"
-    echo "Example: $(basename $0) release/v1.0 main"
+    echo "Example: $(basename $0) release/v1.0 mainx"
     exit 1
 fi
 
 if ! git diff-index --quiet HEAD --; then
-    echo "You have uncommitted files in your Git repository. Please commit or stash them, or run $0 with --force."
+    echo "You have uncommitted files in your Git repository. Please commit or stash them."
     exit 1
 fi
 
