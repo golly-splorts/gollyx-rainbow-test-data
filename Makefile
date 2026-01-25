@@ -1,5 +1,3 @@
-include common.mk
-
 CB := $(shell git branch --show-current)
 
 all:
